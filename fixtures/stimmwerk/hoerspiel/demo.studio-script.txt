@@ -1,0 +1,27 @@
+# SEG 1 | Der Nebel
+ERZ|0|Es regnet seit drei Tagen über dem kleinen Hafen von Muschelbucht.
+ERZ|0.6|Die Boote liegen fest vertäut, und niemand geht hinaus.
+Lea|0.8|Otto, bist du das? Ich sehe dich kaum.
+Otto|0.5|Hier unten. Ich suche den Schlüssel für den Schuppen. [pause 400ms]
+Lea|0.4|Den hast du doch gestern noch gehabt.
+Otto|0.3|Eben. Das ist ja das Problem.
++Lea|0.7|Mhm. Hast du überall nachgesehen?
+Otto|0.4|Im Mantel, im Boot, unter der Plane. [laughter]
+ERZ|0.8|Ein Möwenschrei zerreißt den Nebel. Dann ist es still.
+
+# SEG 2 | Der Fund
+# CUE 10 | music/bed.wav | loop, duck -12 dB, gain -22 dB, fade in 2 s
+Lea|0.8|Warte. Da, zwischen den Netzen. Ein Glänzen.
+Otto|0.5|Ein Schlüssel. Und ein Zettel, durchnässt.
+Lea|0.4|Lies vor.
+Otto|0.6|Wer den Leuchtturm sucht, findet die Tür nur bei Ebbe. [pause 600ms]
+Lea|0.5|Bei Ebbe. Also jetzt.
+ERZ|0.7|Sie wateten über den nassen Sand, Schritt für Schritt.
+Otto|0.4|Nicht so schnell. Der Boden ist glitschig.
+Lea|0.3|Du bist immer so vorsichtig.
+Otto|0.5|Und du immer zu schnell. Das passt schon.
+
+# SEG 3 | Die Treppe
+# CUE 20 | music/outro.wav | no loop, gain -3 dB, fade out 1.5 s
+ERZ|1.0|Die Tür ließ sich öffnen. Hinter ihr begann eine Treppe ins Dunkel.
+Lea|0.8|Also gut. Eins, zwei, drei.

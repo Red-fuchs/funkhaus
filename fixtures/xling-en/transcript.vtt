@@ -1,0 +1,365 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:05.642
+<v Ines Halvorsen>Good evening, everyone. My name is Ines Halvorsen, and for the last two winters</v>
+
+2
+00:00:05.842 --> 00:00:11.414
+<v Ines Halvorsen>I have been refitting a small electric catamaran called Moth Wing. She is nine</v>
+
+3
+00:00:11.614 --> 00:00:17.257
+<v Ines Halvorsen>metres long, with two hulls and one electric motor in each hull. Tonight I want</v>
+
+4
+00:00:17.457 --> 00:00:23.028
+<v Ines Halvorsen>to talk about three things: the battery, the lightning strike, and the customs</v>
+
+5
+00:00:23.228 --> 00:00:28.657
+<v Ines Halvorsen>office in Port Arvel. Each of them cost me more time than money, and each of</v>
+
+6
+00:00:28.857 --> 00:00:31.857
+<v Ines Halvorsen>them taught me something I did not expect.</v>
+
+7
+00:00:32.057 --> 00:00:37.057
+<v Interviewer>Let's start with the battery. Why did you pick lithium iron phosphate?</v>
+
+8
+00:00:37.257 --> 00:00:42.542
+<v Ines Halvorsen>When I started, the obvious choice was nickel manganese cobalt, because it</v>
+
+9
+00:00:42.742 --> 00:00:48.242
+<v Ines Halvorsen>stores more energy per kilogram. For Moth Wing I went the other way. I bought</v>
+
+10
+00:00:48.442 --> 00:00:54.157
+<v Ines Halvorsen>sixteen prismatic LFP cells, each rated at 200 amp hours and 3.2 volts. Wired in</v>
+
+11
+00:00:54.357 --> 00:00:59.714
+<v Ines Halvorsen>series they give 51.2 volts nominal and about 10.2 kilowatt hours. The pack</v>
+
+12
+00:00:59.914 --> 00:01:05.414
+<v Ines Halvorsen>weighs 118 kilograms. The nickel pack I quoted for the same energy weighed 86</v>
+
+13
+00:01:05.614 --> 00:01:10.471
+<v Ines Halvorsen>kilograms, so the LFP costs me thirty-two kilograms of extra weight.</v>
+
+14
+00:01:10.671 --> 00:01:16.100
+<v Ines Halvorsen>Why accept that? Because the manufacturer rates the LFP cells for over 3,000</v>
+
+15
+00:01:16.300 --> 00:01:22.014
+<v Ines Halvorsen>cycles at eighty percent capacity. A boat battery does not get driven like a car</v>
+
+16
+00:01:22.214 --> 00:01:27.785
+<v Ines Halvorsen>battery. It sits at full charge for weeks, it gets hot in the sun, and it gets</v>
+
+17
+00:01:27.985 --> 00:01:33.628
+<v Ines Halvorsen>left at low charge over winter. LFP handles all of that much better. It is also</v>
+
+18
+00:01:33.828 --> 00:01:39.400
+<v Ines Halvorsen>far less likely to go into thermal runaway if a cell is damaged, and on a boat</v>
+
+19
+00:01:39.600 --> 00:01:43.242
+<v Ines Halvorsen>you never want a fire in a locker you cannot reach.</v>
+
+20
+00:01:43.442 --> 00:01:48.871
+<v Ines Halvorsen>The motors are two 8 kilowatt permanent magnet units, one in each hull. At a</v>
+
+21
+00:01:49.071 --> 00:01:54.571
+<v Ines Halvorsen>steady six knots the boat uses about 1.1 kilowatt hours per nautical mile, so</v>
+
+22
+00:01:54.771 --> 00:02:00.200
+<v Ines Halvorsen>the full pack gives me roughly eight miles with a margin. That is enough for</v>
+
+23
+00:02:00.400 --> 00:02:05.828
+<v Ines Halvorsen>hopping between anchorages along the coast, but not for crossing open water.</v>
+
+24
+00:02:06.028 --> 00:02:11.528
+<v Ines Halvorsen>The pack cost 2,460 euros for the cells, 390 euros for the battery management</v>
+
+25
+00:02:11.728 --> 00:02:17.157
+<v Ines Halvorsen>system, and 240 euros for the busbars and fuses. Total: 3,090 euros. I spent</v>
+
+26
+00:02:17.357 --> 00:02:22.928
+<v Ines Halvorsen>another 180 euros on a new charger cable, because the old one was too thin for</v>
+
+27
+00:02:23.128 --> 00:02:26.128
+<v Ines Halvorsen>the 40 amp charging current I wanted.</v>
+
+28
+00:02:26.328 --> 00:02:31.900
+<v Ines Halvorsen>The hulls were the other big job. The previous owner had left osmosis blisters</v>
+
+29
+00:02:32.100 --> 00:02:37.528
+<v Ines Halvorsen>in the port hull, so I spent six weeks grinding back the gelcoat, drying the</v>
+
+30
+00:02:37.728 --> 00:02:43.442
+<v Ines Halvorsen>laminate, and applying three coats of epoxy barrier. The materials came to 1,190</v>
+
+31
+00:02:43.642 --> 00:02:49.357
+<v Ines Halvorsen>euros, and the paint for the topsides added another 460 euros. I did most of the</v>
+
+32
+00:02:49.557 --> 00:02:55.128
+<v Ines Halvorsen>work myself in a rented shed behind the old fish market, which is the cheapest</v>
+
+33
+00:02:55.328 --> 00:03:00.757
+<v Ines Halvorsen>way I know to learn how a catamaran is really put together. The sea trial in</v>
+
+34
+00:03:00.957 --> 00:03:06.385
+<v Ines Halvorsen>spring was the moment I trusted the boat again. We ran at full power for two</v>
+
+35
+00:03:06.585 --> 00:03:10.228
+<v Ines Halvorsen>hours in a flat calm, and the port hull stayed dry.</v>
+
+36
+00:03:10.428 --> 00:03:14.000
+<v Interviewer>And then came the lightning strike. What happened?</v>
+
+37
+00:03:14.200 --> 00:03:19.485
+<v Ines Halvorsen>We were anchored in a bay two nights south of Port Arvel when a storm came</v>
+
+38
+00:03:19.685 --> 00:03:25.185
+<v Ines Halvorsen>through. I will get to the storm night in a moment, but the damage itself was</v>
+
+39
+00:03:25.385 --> 00:03:31.100
+<v Ines Halvorsen>simple. At about three in the morning, lightning hit the carbon mast. The strike</v>
+
+40
+00:03:31.300 --> 00:03:36.228
+<v Ines Halvorsen>blew the masthead VHF antenna off its base, it fried the solar charge</v>
+
+41
+00:03:36.428 --> 00:03:42.142
+<v Ines Halvorsen>controller, and it killed the motor controller on the port side. The battery was</v>
+
+42
+00:03:42.342 --> 00:03:47.771
+<v Ines Halvorsen>fine, which was the good news, because the battery management system cut the</v>
+
+43
+00:03:47.971 --> 00:03:50.971
+<v Ines Halvorsen>circuit as designed.</v>
+
+44
+00:03:51.171 --> 00:03:56.385
+<v Ines Halvorsen>The repair list was long. A new charge controller cost 610 euros. The VHF</v>
+
+45
+00:03:56.585 --> 00:04:02.157
+<v Ines Halvorsen>antenna and its coax cost 145 euros. The port motor controller was another 980</v>
+
+46
+00:04:02.357 --> 00:04:07.500
+<v Ines Halvorsen>euros. I also rebuilt the lightning path. The mast now has a proper down</v>
+
+47
+00:04:07.700 --> 00:04:12.842
+<v Ines Halvorsen>conductor, a bonding strap runs to a stainless grounding plate under the</v>
+
+48
+00:04:13.042 --> 00:04:18.614
+<v Ines Halvorsen>cockpit, and every electrical enclosure is bonded to the same plate. That work</v>
+
+49
+00:04:18.814 --> 00:04:23.100
+<v Ines Halvorsen>took me eleven days and cost 105 euros in copper and clamps.</v>
+
+50
+00:04:23.300 --> 00:04:28.942
+<v Ines Halvorsen>The lesson was that the strike did not hurt the battery, but it hurt everything</v>
+
+51
+00:04:29.142 --> 00:04:34.571
+<v Ines Halvorsen>that talked to it. A lightning protection system is not about protecting the</v>
+
+52
+00:04:34.771 --> 00:04:40.485
+<v Ines Halvorsen>boat from the bolt. It is about giving the current a path to the water that does</v>
+
+53
+00:04:40.685 --> 00:04:43.685
+<v Ines Halvorsen>not go through your electronics.</v>
+
+54
+00:04:43.885 --> 00:04:49.314
+<v Ines Halvorsen>Looking back, the mistake was waiting. I had planned to bond the mast in the</v>
+
+55
+00:04:49.514 --> 00:04:55.085
+<v Ines Halvorsen>spring, but the storm came earlier than my list. Every boat owner I know has a</v>
+
+56
+00:04:55.285 --> 00:05:00.571
+<v Ines Halvorsen>version of this story. The fix is cheap compared with the fright, so do it</v>
+
+57
+00:05:00.771 --> 00:05:06.342
+<v Ines Halvorsen>before the season opens, not during a forecast that already says thirty knots.</v>
+
+58
+00:05:06.542 --> 00:05:09.542
+<v Interviewer>Tell us about the storm night.</v>
+
+59
+00:05:09.742 --> 00:05:15.314
+<v Ines Halvorsen>The forecast said twenty knots. The wind reached thirty-five, with gusts above</v>
+
+60
+00:05:15.514 --> 00:05:21.228
+<v Ines Halvorsen>forty, and the rain was so heavy that the solar panels showed zero input for six</v>
+
+61
+00:05:21.428 --> 00:05:27.142
+<v Ines Halvorsen>hours. I had two anchors down and I was sleeping in the cabin with one ear open.</v>
+
+62
+00:05:27.342 --> 00:05:32.985
+<v Ines Halvorsen>At around half past two the anchor started to drag over a rocky patch. I had to</v>
+
+63
+00:05:33.185 --> 00:05:38.614
+<v Ines Halvorsen>run the motors at low power to hold position, and that is when I noticed the</v>
+
+64
+00:05:38.814 --> 00:05:44.385
+<v Ines Halvorsen>battery display falling faster than I expected. The storm had pushed us toward</v>
+
+65
+00:05:44.585 --> 00:05:49.228
+<v Ines Halvorsen>shallow water, and the motors were drawing hard against the wind.</v>
+
+66
+00:05:49.428 --> 00:05:55.071
+<v Ines Halvorsen>I reduced the thrust, switched the chart plotter to its low power mode, and sat</v>
+
+67
+00:05:55.271 --> 00:06:00.914
+<v Ines Halvorsen>in the cockpit with a headlamp for four hours. Nothing dramatic happened in the</v>
+
+68
+00:06:01.114 --> 00:06:06.757
+<v Ines Halvorsen>end. The second anchor held. But I learned that a battery with a clear state of</v>
+
+69
+00:06:06.957 --> 00:06:12.599
+<v Ines Halvorsen>charge readout is worth more than any extra kilowatt hour, because it tells you</v>
+
+70
+00:06:12.799 --> 00:06:15.799
+<v Ines Halvorsen>how long you can keep fighting the wind.</v>
+
+71
+00:06:15.999 --> 00:06:20.142
+<v Interviewer>Now the customs office in Port Arvel. What happened there?</v>
+
+72
+00:06:20.342 --> 00:06:26.057
+<v Ines Halvorsen>After the storm I needed the new port motor controller, and the supplier shipped</v>
+
+73
+00:06:26.257 --> 00:06:31.328
+<v Ines Halvorsen>it from a warehouse in another country. It arrived in Port Arvel with a</v>
+
+74
+00:06:31.528 --> 00:06:37.099
+<v Ines Halvorsen>commercial invoice that listed it as a new vessel part. The customs officer, a</v>
+
+75
+00:06:37.299 --> 00:06:43.014
+<v Ines Halvorsen>very correct man, read the invoice and said the controller was a new import, not</v>
+
+76
+00:06:43.214 --> 00:06:48.785
+<v Ines Halvorsen>a repair, and that import VAT of 620 euros was due before he would release it.</v>
+
+77
+00:06:48.985 --> 00:06:54.628
+<v Ines Halvorsen>I argued that a warranty replacement for a damaged part is not a new import. He</v>
+
+78
+00:06:54.828 --> 00:07:00.328
+<v Ines Halvorsen>disagreed. For four days I went back and forth between the harbour office and</v>
+
+79
+00:07:00.528 --> 00:07:05.742
+<v Ines Halvorsen>the customs shed. On the fourth day a second officer looked at the serial</v>
+
+80
+00:07:05.942 --> 00:07:11.157
+<v Ines Halvorsen>number, matched it to the original warranty claim, and signed a temporary</v>
+
+81
+00:07:11.357 --> 00:07:16.785
+<v Ines Halvorsen>release form. The VAT question is still open. I paid it under protest, and a</v>
+
+82
+00:07:16.985 --> 00:07:22.485
+<v Ines Halvorsen>friend who works in trade law estimates that a formal appeal would cost about</v>
+
+83
+00:07:22.685 --> 00:07:26.614
+<v Ines Halvorsen>400 euros more in fees, so I am not going to pursue it.</v>
+
+84
+00:07:26.814 --> 00:07:32.242
+<v Ines Halvorsen>The lesson is simple. Keep the warranty paperwork with the part, and put the</v>
+
+85
+00:07:32.442 --> 00:07:38.157
+<v Ines Halvorsen>serial number on the invoice. Customs officers are not your enemy, but they only</v>
+
+86
+00:07:38.357 --> 00:07:41.999
+<v Ines Halvorsen>read what is written on the paper in front of them.</v>
+
+87
+00:07:42.199 --> 00:07:46.414
+<v Interviewer>Any last advice for people refitting a small electric boat?</v>
+
+88
+00:07:46.614 --> 00:07:52.328
+<v Ines Halvorsen>Three things. Choose the battery for the life you will actually use, not for the</v>
+
+89
+00:07:52.528 --> 00:07:58.099
+<v Ines Halvorsen>spec sheet. Bond everything to one grounding point before the first storm, not</v>
+
+90
+00:07:58.299 --> 00:08:03.942
+<v Ines Halvorsen>after. And measure twice before you buy a part that might cross a border. Thank</v>
+
+91
+00:08:04.142 --> 00:08:07.142
+<v Ines Halvorsen>you, and I am happy to take questions.</v>

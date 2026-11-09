@@ -1,0 +1,30 @@
+# SEG 1 | Der Hafen
+ERZ|0|Im Hafen von Muschelbucht regnet es seit drei Tagen.
+ERZ|0.6|Die Boote liegen fest vertäut, und niemand geht hinaus.
+Lea|0.8|Otto, bist du das? Ich sehe dich kaum.
+Otto|0.5|Hier unten. Ich suche den Schlüssel für den Schuppen. [pause 400ms]
++Lea|0.7|Mhm. Hast du überall nachgesehen?
+Lea|0.4|Den hattest du doch gestern noch.
+Otto|0.3|Eben. Das ist ja das Problem.
+ERZ|0.8|Eine Möwe schreit. Dann ist es wieder still.
+
+# SEG 2 | Der Fund
+Lea|0.8|Warte. Da, zwischen den Netzen. Ein Glänzen.
+Otto|0.5|Ein Schlüssel. Und ein Zettel, durchnässt.
+Lea|0.4|Lies vor.
+Otto|0.6|Wer den Leuchtturm sucht, findet die Tür nur bei Ebbe. [pause 600ms]
+ERZ|0.7|Sie wateten über den nassen Sand, Schritt für Schritt.
+Lea|0.5|Bei Ebbe. Also jetzt.
+Otto|0.4|Nicht so schnell. Der Boden ist glitschig.
++Lea|0.5|Mhm.
+Lea|0.3|Du bist immer so vorsichtig.
+
+# SEG 3 | Die Treppe
+ERZ|1.0|Die Tür ließ sich öffnen. Dahinter begann eine Treppe ins Dunkel.
+Otto|0.8|Also gut. Eins, zwei, drei.
+Lea|0.5|Und dann bleibt die Tür offen? [pause 1s]
+ERZ|0.8|Niemand antwortete. Nur das Meer, leise hinter der Mauer.
+Otto|0.6|Vorsicht, die Stufen sind nass.
++Lea|0.3|Ja, ich weiß.
+Lea|0.5|Jetzt bin ich ganz ruhig. [pause 500ms]
+ERZ|0.8|Unten brannte ein Licht.

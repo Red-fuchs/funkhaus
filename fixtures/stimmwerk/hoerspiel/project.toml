@@ -1,0 +1,50 @@
+format = 1
+title = "Der Leuchtturm (Hörspiel-Fixture)"
+lang = "de"
+
+[settings]
+loudness = "hoerbuch"
+gap = 0.5
+disclosure = true
+
+[speakers.ERZ]
+persona = "gt"
+label = "Erzähler"
+
+[speakers.Lea]
+persona = "kn"
+label = "Lea"
+
+[speakers.Otto]
+persona = "gerstaecker"
+label = "Otto"
+
+# [music] = Defaults aus cues.rs MusicCfg (Duck -12 dB, Loop-Crossfade 2 s); Serializer schreibt sie nicht zurück.
+[music]
+duck_db = -12.0
+duck_thresh_db = -50.0
+duck_attack_ms = 20.0
+duck_release_ms = 800.0
+duck_hold_ms = 300.0
+crossfade_ms = 2000.0
+
+# Musik-Intro, acestep (Cache -> assets/music/ per "Ins Projekt"). Lint: Datei fehlt, bis erzeugt.
+[[cues]]
+at_line = 1
+file = "assets/music/intro.wav"
+kind = "music"
+gain_db = -20.0
+fade_in = 2.0
+fade_out = 2.0
+duck = true
+
+# Importierte CC0-WAV (Meer/Hafen), Platzhalter-Pfad. loop_until_line = 26 = n+1 = Ende der Sprache (exklusiv, erlaubt).
+[[cues]]
+at_line = 18
+file = "assets/ambience/meer_cc0.wav"
+kind = "ambience"
+gain_db = -24.0
+fade_in = 1.5
+fade_out = 2.0
+loop_until_line = 26
+duck = false

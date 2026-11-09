@@ -1,0 +1,18 @@
+[package]
+name = "funkhaus-voice"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+funkhaus-audio.workspace = true
+funkhaus-sys.workspace = true
+unicode-normalization = "0.1"
+sha2 = "0.10"
+toml = "0.8"
+chrono = { version = "0.4", default-features = false, features = ["clock", "std"] }
+
+[dev-dependencies]
+tempfile = "3"

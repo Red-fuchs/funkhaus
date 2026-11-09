@@ -1,0 +1,22 @@
+[workspace]
+members = ["crates/sys", "crates/audio", "crates/voice", "crates/llm", "crates/core", "crates/cli", "crates/gui", "crates/stimmwerk-core", "crates/stimmwerk-cli", "crates/stimmwerk-gui"]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2024"
+
+[workspace.dependencies]
+anyhow = "1"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+funkhaus-core = { path = "crates/core" }
+funkhaus-sys = { path = "crates/sys" }
+funkhaus-audio = { path = "crates/audio" }
+funkhaus-voice = { path = "crates/voice" }
+funkhaus-llm = { path = "crates/llm" }
+stimmwerk-core = { path = "crates/stimmwerk-core" }
+
+[profile.release]
+opt-level = 3
+strip = true

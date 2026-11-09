@@ -1,0 +1,32 @@
+{
+  "v": 2,
+  "chunk": "s3#0",
+  "hash": "b04447c034909d4f",
+  "context": "Dies ist der einleitende Abschnitt der Videobeschreibung des YouTube-Kanals TRUE NORTH vom 12. Oktober 2026. Der Inhalt beschreibt einen Unfall mit einem Solarboot und listet eine umfangreiche Liste von Musik-Credits und Lizenzen auf, die im Video verwendet wurden.",
+  "summary": "Der Ausschnitt beschreibt einen Unfall mit einem Solarboot und den Versuch, das Boot zu bergen, um Umweltschäden durch Batterien und Elektronik zu verhindern. Der Großteil des Textes besteht aus detaillierten Musik-Credits für verschiedene Künstler wie Alexander Nakarada und Audionautix unter Creative-Commons-Lizenzen.",
+  "facts": [
+    {
+      "text": "Es gab einen Unfall mit einem Solarboot, bei dem ein Rettungsversuch unternommen wurde.",
+      "quote": "I had an accident on my solar boat, and we try to rescue it"
+    },
+    {
+      "text": "Das Ziel der Bergung war es, Schäden an der See durch Batterien und Elektronik zu vermeiden.",
+      "quote": "before the batteries and electronics cause harm to the sea."
+    },
+    {
+      "text": "Einer der verwendeten Musiktitel ist 'Follow The Sun' von Alexander Nakarada.",
+      "quote": "Follow The Sun by Alexander Nakarada"
+    },
+    {
+      "text": "Der Titel 'Running Waters' stammt von Audionautix und unterliegt einer Creative Commons Attribution 4.0 Lizenz.",
+      "quote": "Running Waters by Audionautix is licensed under a Creative Commons Attribution 4.0 license."
+    }
+  ],
+  "questions": [
+    "Was ist der Grund für den Rettungsversuch des Solarboots?",
+    "Welche Musiktitel wurden im Video verwendet?",
+    "Welche Lizenzen sind für die verwendete Musik angegeben?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

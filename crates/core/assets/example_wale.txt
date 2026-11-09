@@ -1,0 +1,22 @@
+F|0|Tobi, dein Ernst? Ein Wal singt und das soll einen Sinn haben?
+O|0.05|Mein Ernst, ja. Buckelwale singen Lieder, die man über den halben Ozean hört.
+B|0.5|Echt jetzt?
+F|0.1|Echt. Und die Lieder sind richtig komplex, mit Strophen, die sich wiederholen.
+O|0.05|Nur die Männchen singen, oder?
+F|0.1|Vor allem die Männchen, und zwar hauptsächlich in der Paarungszeit. Das ist die übliche Erklärung.
+O|-0.1|Moment mal, übliche Erklärung? Heißt das, es gibt auch andere?
+F|0.05|Genau da wird's spannend. Niemand weiß es sicher, und die Forschung streitet darüber.
+B|0.6|Mhm.
+O|0.1|Okay, aber was ist das Erstaunlichste daran?
+F|0.05|Dass die Lieder sich verändern. Über Jahre wandert die Melodie, und alle Wale in einem Gebiet singen am Ende dasselbe.
+O|0.1|Also eine Art Hit-Parade im Meer.
+F|0.05|Ja, nur ohne Radio. [laughter]
+O|0.1|Und wie lernen die Wale das? Hört einer dem anderen zu und kopiert?
+F|0.05|Vieles deutet darauf hin, dass sie voneinander lernen, wenn sie sich begegnen. Das ist aber noch nicht vollständig geklärt.
+B|0.4|Genau.
+O|0.15|Ich dachte immer, Walgesang ist einfach ein Balzruf. Das war mir zu schlicht.
+F|0.05|Das ist ja das Schöne: Es ist mehr als ein Ruf. Es ist eine Art Kultur, die von Gruppe zu Gruppe unterschiedlich ist.
+O|0.1|Und warum ist das für uns wichtig?
+F|0.05|Weil es zeigt, wie viel wir über Tiere noch nicht wissen. Und wie schnell sich Verhalten verändern kann.
+O|0.1|Kurz gesagt: Wale singen mit Melodie, Wiederholung und Wandel, und vermutlich lernen sie voneinander.
+F|0.05|Merke dir die Hit-Parade. Das war der Projekt-Funk, bis zum nächsten Lied, Tobi!

@@ -1,0 +1,29 @@
+input	expected
+Die Haffrot-Fähre fährt.	Die Haffrot-Fehre fährt.
+Die Fähre fährt.	Die Fehre fährt.
+Fährenbetrieb	Fährenbetrieb
+Mäh-Fähre	Mäh-Fehre
+Haffrotfähre	Haffrotfähre
+Haffrot-Fähre Haffrot	Haffrot-Fehre Hafrot
+Haffrot-Fähre-Fähre	Haffrot-Fehre-Fehre
+Kleinholm.	Klein-Holm.
+(Kleinholm)	(Klein-Holm)
+kleinholm	kleinholm
+KLEINHOLM	KLEINHOLM
+Kleinholms	Kleinholms
+Rüdersand, Rüdersands.	Rüdersant, Rüdersands.
+Rahlfs und Ocke	Ralfs und Ohcke
+Die Möwe II fährt.	Die Mööwe II fährt.
+Muscheltag am Südhafen	Muschel-Tag am Süd-Hafen
+Süd und Südhafen	Sued und Süd-Hafen
+Festlandhafen	Festland-Hafen
+Strandstraße 4	Strand-Strasse 4
+Strandstraßen	Strandstraßen
+Der Workshop, das Feedback, der Podcast.	Der Wörkschop, das Fiedbäck, der Podkast.
+Kleinholm eG	Klein-Holm e Ge
+Kleinholm eGmbH	Klein-Holm eGmbH
+Fähre	Fehre
+Die Fähre [pause 1s] Fähre	Die Fehre [pause 1s] Fehre
+[Kleinholm-Tag] Kleinholm	[Kleinholm-Tag] Klein-Holm
+[sigh] Rahlfs	[sigh] Ralfs
+[ein Satz mit mehr als dreißig Zeichen Kleinholm]	[ein Satz mit mehr als dreißig Zeichen Kleinholm]

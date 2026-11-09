@@ -1,0 +1,19 @@
+{"cast": [
+  {"id": "ERZ", "name": "Erzähler", "desc": "Neutraler Erzähler, Bahnsteig und Nebenzimmer. Einmalige unbenannte Rufe gehören hierher."},
+  {"id": "MANN", "name": "der Mann", "desc": "Unbenannt, grauer Mantel, wartet am Gleis, wortkarg. Rollenname, kein Eigenname."},
+  {"id": "STIMME", "name": "Stimme aus dem Nebenzimmer", "desc": "Unsichtbare Person im Nebenraum, ruhig, antwortet kurz. Rollenname, kein Eigenname."}
+],
+"lines": [
+  {"who": "ERZ", "text": "Am Gleis 2 stand ein Mann im grauen Mantel und wartete."},
+  {"who": "ERZ", "text": "Er trug keinen Koffer, nur eine Plastiktüte mit Brot."},
+  {"who": "MANN", "text": "Der Zug kommt nicht mehr heute."},
+  {"who": "STIMME", "text": "Hast du den Schlüssel?"},
+  {"who": "MANN", "text": "Welchen Schlüssel?"},
+  {"who": "ERZ", "text": "Der Mann drehte sich nicht um."},
+  {"who": "STIMME", "text": "Den für den Schuppen."},
+  {"who": "ERZ", "text": "Der Mann schüttelte den Kopf."},
+  {"who": "MANN", "text": "Den habe ich nie gehabt."},
+  {"who": "ERZ", "text": "Von der Treppe rief eine Frau: Achtung, die Tür klemmt!"},
+  {"who": "ERZ", "text": "Der Mann sah auf die Uhr."},
+  {"who": "MANN", "text": "Dann nehme ich eben den Bus."}
+]}

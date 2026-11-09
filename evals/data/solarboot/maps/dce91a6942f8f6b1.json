@@ -1,0 +1,40 @@
+{
+  "v": 2,
+  "chunk": "s3#11",
+  "hash": "dce91a6942f8f6b1",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH beschreibt der Sprecher die Bergung seiner beschädigten Solarelemente und Batterien nach dem Kentern seines Bootes. Er berichtet von der Zusammenarbeit mit zwei Tauchern, der Ignoranz der Behörden und seinen zukünftigen Plänen in den USA oder Schweden.",
+  "summary": "Nachdem die Sicht unter Wasser zuvor zu schlecht war, gelingt es dem Sprecher mit Hilfe von zwei Tauchern, fast alle Batterien und Solarpaneele aus dem Meer zu bergen. Trotz der Ignoranz der Behörden wird die Elektronik sicher an Land gebracht. Der Sprecher plant anschließend einen Umzug in die USA oder nach Schweden.",
+  "facts": [
+    {
+      "text": "Die schwersten Batterien wogen 69 Kilogramm.",
+      "quote": "The heaviest batteries were 69 kilos"
+    },
+    {
+      "text": "Es gelang, alle fünf großen Batterien zu lokalisieren.",
+      "quote": "we managed to locate all five large batteries."
+    },
+    {
+      "text": "Einige der Solarpaneele wogen 24 Kilogramm.",
+      "quote": "some of the 24 kilo solar panels"
+    },
+    {
+      "text": "Der Sprecher plant, im Dezember in die USA zu ziehen.",
+      "quote": "I'll be moving to the States in December"
+    },
+    {
+      "text": "Sollte der Plan mit den USA scheitern, will er nach Schweden gehen.",
+      "quote": "If that doesn't work, I will go to Sweden"
+    },
+    {
+      "text": "Eine letzte Batterie konnte während der Tauchoperationen nicht geborgen werden.",
+      "quote": "the last battery we could not retrieve during the diving operations."
+    }
+  ],
+  "questions": [
+    "Wie schwer waren die Batterien und Solarpaneele, die geborgen wurden?",
+    "Wie viele der großen Batterien konnten erfolgreich aus dem Wasser geholt werden?",
+    "Was sind die Reisepläne des Sprechers für die nahe Zukunft?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

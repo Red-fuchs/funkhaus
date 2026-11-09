@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#6",
+  "hash": "7f5104f9e21ac2d6",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH berichtet der Besitzer des Solarboots Helios über die Umstände des Kenterns seines Bootes. Er beschreibt die bürokratischen Hindernisse, die eine Bergung verhinderten, und gibt Details zum Unfallhergang sowie zum Zustand des Bootes nach dem Aufprall auf den Meeresboden an.",
+  "summary": "Der Bootsbesitzer erklärt, dass sein Boot Helios 11 durch ein Versehen bei Wartungsarbeiten kenterte. Trotz der Bereitschaft, das Boot selbst zu bergen, verboten Behörden dies unter dem Vorwand der Sicherheit. Er plant bereits ein neues Boot und hofft auf eine Kostenübernahme durch den Hafen für die Beseitigung der Trümmer.",
+  "facts": [
+    {
+      "text": "Das Boot Helios 11 legte über 6.000 Kilometer von Finnland bis nach Spanien und Portugal zurück.",
+      "quote": "Traveled over 6,000 kilometers from the winter of Finland, uh all the way to Spain, Portugal"
+    },
+    {
+      "text": "Das Sinken geschah durch einen Unfall während der Wartungsarbeiten an den Batterien.",
+      "quote": "we sink from um from an accident while we're doing service maintenance on on the batteries"
+    },
+    {
+      "text": "Dem Besitzer wurde die Bergung seines eigenen Bootes durch die Behörden untersagt.",
+      "quote": "we simply were not allowed to to save my own boat."
+    },
+    {
+      "text": "Trotz des Kenterns und des Aufpralls auf den Boden ist der Rumpfkern weitgehend intakt geblieben.",
+      "quote": "the core of the hole is uh mostly intact"
+    },
+    {
+      "text": "Der Besitzer hat bereits mit dem Bau des nächsten Bootes begonnen.",
+      "quote": "I'm building the next boat already."
+    }
+  ],
+  "questions": [
+    "Warum konnte der Besitzer sein Boot nicht selbst bergen?",
+    "Was war die genaue Ursache für das Sinken des Helios 11?",
+    "Wie weit war das Boot vor dem Unfall bereits gereist?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

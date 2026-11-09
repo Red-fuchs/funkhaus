@@ -1,0 +1,17 @@
+{"cast": [
+  {"id": "ERZ", "name": "Erzähler", "desc": "Neutraler Erzähler, Besprechungsraum."},
+  {"id": "DRKERN", "name": "Dr. Kern", "desc": "Leiter der Besprechung, sachlich, genau bei Zahlen."}
+],
+"lines": [
+  {"who": "ERZ", "text": "Dr. Kern stand vor der Tafel und zeigte auf die Zahlen."},
+  {"who": "DRKERN", "text": "Das Thermometer zeigt 3,5 Grad, das ist für Anfang Oktober schon knapp."},
+  {"who": "ERZ", "text": "Die Wetterdaten stammen z. B. aus der Station am Hafen."},
+  {"who": "ERZ", "text": "Der Bericht steht auf S. 12 im zweiten Ordner."},
+  {"who": "DRKERN", "text": "Bitte nehmen Sie sich ca. 20 Minuten Zeit."},
+  {"who": "DRKERN", "text": "Ich meine es ernst."},
+  {"who": "ERZ", "text": "Um 14 Uhr, in Nr. 4 am Ende des Flurs, begann die Besprechung."},
+  {"who": "DRKERN", "text": "Die Werte liegen bei 0,75 und bei 1,20, also zu niedrig für den Test."},
+  {"who": "ERZ", "text": "Am Ende stand auf der Tafel: Messung wiederholen, Nr. 7 prüfen."},
+  {"who": "ERZ", "text": "Dr. Kern nickte und wischte die Kreide ab."},
+  {"who": "DRKERN", "text": "Das reicht für heute."}
+]}

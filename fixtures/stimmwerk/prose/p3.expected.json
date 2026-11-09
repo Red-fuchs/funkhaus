@@ -1,0 +1,39 @@
+{
+  "cast": [
+    {"id": "ERZ", "name": "Erzähler", "desc": "Neutraler Erzähler, Küchenszene."},
+    {"id": "OSKAR", "name": "Oskar", "desc": "Am Herd, hektisch, dann resigniert."},
+    {"id": "MARTA", "name": "Marta", "desc": "In der Tür, trocken, sachlich."},
+    {"id": "BEN", "name": "Ben", "desc": "Am Tisch mit Zeitung, verschlafen, gleichgültig."}
+  ],
+  "lines": [
+    {"who": "ERZ", "text": "Die Küche roch nach verbranntem Toast."},
+    {"who": "ERZ", "text": "Oskar stand am Herd und wedelte mit einem Geschirrtuch."},
+    {"who": "OSKAR", "text": "Ach, verflixt!"},
+    {"who": "OSKAR", "text": "Das war der letzte."},
+    {"who": "ERZ", "text": "Marta lehnte sich in den Türrahmen."},
+    {"who": "MARTA", "text": "Der letzte Toast?"},
+    {"who": "MARTA", "text": "Oskar, das Gerät hat einen Timer."},
+    {"who": "OSKAR", "text": "Hm."},
+    {"who": "OSKAR", "text": "Der Timer hat mich nicht gewarnt."},
+    {"who": "ERZ", "text": "Ben saß am Tisch und blätterte in der Zeitung."},
+    {"who": "ERZ", "text": "Er sah nicht auf."},
+    {"who": "BEN", "text": "Na so was."},
+    {"who": "BEN", "text": "Dann esse ich eben Müsli."},
+    {"who": "MARTA", "text": "Oje."},
+    {"who": "MARTA", "text": "Ben, das Müsli ist vom letzten Monat."},
+    {"who": "ERZ", "text": "Oskar seufzte schwer und legte das Tuch über die Stuhllehne."},
+    {"who": "OSKAR", "text": "[sigh] Psst."},
+    {"who": "OSKAR", "text": "Das Müsli ist nicht das Problem."},
+    {"who": "OSKAR", "text": "Das Problem ist der Toast."},
+    {"who": "BEN", "text": "Wieso?"},
+    {"who": "BEN", "text": "Der Toast schmeckt doch."},
+    {"who": "MARTA", "text": "Er schmeckt nach Rauch."},
+    {"who": "MARTA", "text": "Und das Fenster ist offen."},
+    {"who": "MARTA", "text": "Die ganze Nachbarschaft wird wach."},
+    {"who": "OSKAR", "text": "Hm."},
+    {"who": "OSKAR", "text": "Dann mache ich eben das Fenster zu."},
+    {"who": "ERZ", "text": "Ben legte die Zeitung weg."},
+    {"who": "BEN", "text": "Gut."},
+    {"who": "BEN", "text": "Dann bin ich jetzt wach."}
+  ]
+}

@@ -1,0 +1,23 @@
+[package]
+name = "funkhaus-core"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+toml = "0.8"
+hound = "3"
+chrono = { version = "0.4", default-features = false, features = ["clock", "std", "serde"] }
+ureq = { version = "2", features = ["json"] }
+pdf-extract = "0.9"
+html2text = "0.14"
+zip = { version = "2", default-features = false, features = ["deflate"] }
+funkhaus-audio.workspace = true
+funkhaus-sys.workspace = true
+funkhaus-voice.workspace = true
+funkhaus-llm.workspace = true
+
+[dev-dependencies]
+tempfile = "3"

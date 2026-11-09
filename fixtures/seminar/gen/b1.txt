@@ -1,0 +1,78 @@
+@@BLOCK Begrüßung
+Mara: Guten Morgen, zusammen. Schön, dass Sie alle da sind. Ich sehe, einige haben schon einen Kaffee in der Hand, das ist gut.
+Jonas: Morgen. Ähm, ich bin Jonas, Pflegefachmann, ich arbeite auf der Station drei im Nachtdienst.
+Mara: Danke, Jonas. Wir machen eine kurze Runde: Name, Einrichtung und ein Satz, warum Sie heute hier sind.
+Selma: Selma. Ich bin Altenpflegerin in der Demenzwohngruppe. Also ich bin hier, weil ich in letzter Zeit merke, dass mir in den Übergaben die Geduld ausgeht.
+Thorsten: Thorsten, ich bin Praxisanleiter. Ich begleite die Azubis im zweiten Ausbildungsjahr, und ich möchte besser erklären können, was ich eigentlich von ihnen will.
+Ilse: Ilse. Pflegehelferin, seit zweiundzwanzig Jahren im Haus. Ehrlich gesagt bin ich eher skeptisch, aber meine Leitung hat gesagt, ich soll mal hingehen.
+Mara: Das ist eine ehrliche Vorstellung, Ilse, dafür danke ich Ihnen. Ich bin Mara Lindqvist, Pflegepädagogin, und ich begleite diesen Tag mit Ihnen.
+Mara: Zur Organisation: Wir sind hier in der Lehrwerkstatt Kaltenbrunn, Raum 4B. Heute ist Donnerstag, der zwölfte November 2026.
+Mara: Wir haben von neun Uhr bis etwa sechzehn Uhr Zeit. Um zehn Uhr vierzig machen wir eine Kaffeepause von fünfzehn Minuten, mittags gibt es eine Stunde.
+Jonas: Und die Handys? Muss ich erreichbar sein? Ich hab die Station im Hinterkopf, das weißt du ja.
+Mara: Stellen Sie das Handy bitte auf lautlos und legen Sie es umgedreht auf den Tisch. Wenn ein Anruf wirklich dringend ist, dürfen Sie rausgehen, ohne Begründung.
+Selma: Gut, das beruhigt mich. Ich hab meine Kollegin heute Morgen extra gefragt, ob sie den Dienst übernimmt.
+Mara: Sehr gut. Ich möchte kurz erklären, was Sie heute erwarten. Es ist kein Vortrag von vorne bis hinten. Wir arbeiten mit Wahrnehmung, mit Übungen und mit Fällen aus Ihrem Alltag.
+Thorsten: Wie viele Leute sind wir eigentlich heute? Ich hab nur vier Namen auf dem Zettel gesehen.
+Mara: Genau vier Teilnehmende, Thorsten, und ich. Das ist bewusst klein gehalten, damit jeder zu Wort kommt.
+Ilse: Vier. Also keine Versteckmöglichkeit.
+Mara: Ilse, Sie dürfen sich ruhig verstecken, wenn Sie das möchten. Aber ich glaube, Sie werden heute mehr sagen, als Sie denken.
+Ilse: Mal sehen. Ich hab eine Frage vorab: Ist das hier wieder so ein Kurs, bei dem man Kärtchen bemalen muss?
+Mara: Nein, keine Kärtchen. Wir haben Papier für Notizen und ein Blatt mit drei Spiegeln, das gebe ich nach der Theorie aus.
+Selma: Drei Spiegel. Klingt nach Esoterik.
+Mara: Ich verstehe den Reflex, Selma. Die Drei-Spiegel-Methode ist aber sehr konkret und hat nichts mit Esoterik zu tun. Sie hilft, eine Situation zu sortieren, bevor man darauf reagiert.
+Mara: Ich erzähle Ihnen dazu gleich mehr, aber zuerst möchte ich wissen, was Sie in den letzten zwei Wochen am meisten beschäftigt hat, im Positiven wie im Negativen.
+Thorsten: Bei uns in der Ausbildung war es eine Azubine, die im Gespräch mit einer Bewohnerin einfach aus dem Raum gegangen ist. Die Bewohnerin hat dann geweint, und niemand wusste warum.
+Mara: Das ist ein sehr gutes Beispiel, Thorsten. Halten Sie den Gedanken bitte, den greifen wir später im Fall auf.
+Jonas: Bei mir war es ein Kollege aus der Frühschicht. Er sagt bei jeder Übergabe nur: Alles klar, und dann ist nichts klar. Das nervt mich, ehrlich.
+Selma: Ich glaub, das Problem ist, dass man in der Übergabe keine Zeit hat. Da muss es schnell gehen, also sagt man halt nur die Zahlen.
+Mara: Die Zeit ist ein Thema, das ich ernst nehme. Aber ich möchte es nicht sofort auf Zeitmangel schieben. Wir schauen heute, was in dem Satz "alles klar" eigentlich passiert.
+Ilse: Also ich find, man muss einfach mal sagen, was Sache ist. Die Leute hier sind erwachsen.
+Mara: Das ist ein wichtiger Punkt, Ilse. Klarheit ist wichtig. Die Frage ist nur, wie man klar ist, ohne den anderen zu verletzen oder zu überfahren.
+Ilse: Ja, gut. Aber man kann nicht immer so sanft sein. Die Schicht läuft nicht warten.
+Mara: Nein, da stimme ich Ihnen zu. Wir reden später über den Unterschied zwischen sanft und klar. Ich merke, dass das Thema bei Ihnen allen schon lebt.
+Selma: Ich hab auch einmal erlebt, dass eine Kollegin mit einer Bewohnerin so laut gesprochen hat, dass die Frau sich in der Ecke versteckt hat. Das war schrecklich.
+Mara: Danke, dass Sie das erzählen. Ich notiere mir kurz die drei Stichworte: Übergabe, Satz "alles klar", Lautstärke. Das sind unsere Anker für den Vormittag.
+Mara: Ich erkläre jetzt den Rahmen. Achtsame Kommunikation heißt nicht, dass man nett sein muss. Es heißt, dass man bemerkt, was im Moment passiert, bevor man spricht.
+Jonas: Achtsam, das Wort hab ich schon zu oft gehört. Auf jeder Fortbildung, und dann passiert nichts.
+Mara: Das ist eine berechtigte Kritik, Jonas. Deshalb arbeiten wir heute mit kleinen, konkreten Schritten, die Sie am nächsten Dienst wirklich anwenden können.
+Mara: Ein Hinweis noch: Ich verwende in diesem Tag keine Begriffe aus der Psychotherapie. Wenn doch ein Fachwort auftaucht, frage ich nach, ob es Ihnen verständlich ist.
+Thorsten: Gut, dann hab ich schon mal eine Frage: Gibt es Unterlagen? Ich würde gern nachlesen.
+Mara: Es gibt ein Skript mit etwa vierzig Seiten, das bekommen Sie per Mail nach dem Kurs. Heute brauchen Sie nur das Notizpapier und Ihren Kopf.
+Ilse: Vierzig Seiten. Das liest doch keiner.
+Mara: Dann machen Sie es wie Thorsten: Sie lesen die Seite eins und die letzte Seite. Das reicht für den Anfang.
+Selma: Ich glaube, ich lese es ganz durch. Ich bin so eine.
+Mara: Das freut mich, Selma. Dann sind Sie unsere Gründlichkeit heute.
+Jonas: Und was ist mit Zertifikat? Brauchen wir das für die Fortbildungspunkte?
+Mara: Ja, für den Kurs gibt es acht Fortbildungspunkte, wenn Sie vollständig teilnehmen. Die Bescheinigung erhalten Sie am Ende am Ausgang.
+Thorsten: Acht Punkte. Gut, das lohnt sich.
+Mara: Bevor wir in die Theorie gehen, machen wir eine kleine Übung zur Ankunft. Schließen Sie kurz die Augen, wenn Ihnen das angenehm ist, und spüren Sie Ihre Füße auf dem Boden.
+Ilse: Hm. Okay. Ich mach das nicht lang.
+Mara: Niemand muss lang. Drei Atemzüge, dann öffnen Sie die Augen wieder. Eins. Zwei. Drei. Und jetzt schauen Sie sich im Raum um, nur kurz, und merken sich eine Sache, die Ihnen auffällt.
+Selma: Die Uhr an der Wand ist schief. Das hab ich vorhin gar nicht gesehen.
+Mara: Sehr schön. Genau dieses Bemerken ist unser Thema. Wir gehen gleich von der Uhr zur Wahrnehmung im Pflegealltag.
+Thorsten: Die Lampe flackert ein bisschen. Mir fällt das auf, weil ich es schon seit der Ausbildung nerve.
+Mara: Auch gut, Thorsten. Sie merken: Jeder bemerkt etwas anderes. Das ist der Ausgangspunkt, und ich möchte, dass Sie das heute nicht bewerten, sondern nur bemerken.
+Jonas: Also ich hab die Leute am Tisch gesehen. Ilse hat den Stift in der Hand hin und her gedreht.
+Ilse: Ha. Ja, das mach ich, wenn ich nervös bin.
+Mara: Da haben wir schon den ersten Moment. Jonas hat etwas wahrgenommen, Ilse hat es bestätigt. Keine Wertung, nur Beobachtung. Das üben wir gleich weiter.
+Mara: Sie sehen, dass wir in der Begrüßung schon die Methode benutzen. Wir sind nicht bei den Schuldfragen, sondern bei dem, was gerade im Raum ist.
+Selma: Hm, das ist ungewohnt. Normalerweise rede ich sofort über das, was ich denke.
+Mara: Das geht den meisten so, Selma. Bevor wir uns um die Theorie kümmern, machen wir noch eine Runde zu Ihren Erwartungen, dann sind wir sauber gestartet.
+Mara: Wer hat eine Erwartung, die ich heute auf keinen Fall erfüllen sollte?
+Thorsten: Dass wir Rollenspiele machen, in denen ich vorne stehen und mich blamieren muss.
+Mara: Gut, das notiere ich. Rollenspiele machen wir, aber niemand muss vorne stehen. Wir machen es zu dritt am Tisch.
+Ilse: Ich will keine Psycho-Sachen. Ich bin Pflegerin, keine Therapeutin.
+Mara: Das notiere ich ebenfalls. Wir arbeiten mit Sprache und Wahrnehmung im Pflegealltag. Keine Therapie, keine Diagnosen.
+Jonas: Ich möchte konkrete Sätze mitnehmen. Nicht nur Theorie.
+Mara: Das ist gut, Jonas. Am Ende haben Sie drei Sätze, die Sie morgen früh in der Übergabe sagen können.
+Selma: Ich möchte lernen, wie ich ruhig bleibe, wenn eine Bewohnerin mich anschreit.
+Mara: Das ist ein sehr wichtiges Anliegen, Selma. Dafür gibt es das Kiesel-Modell, das ich nach der Pause vorstelle.
+Selma: Kiesel. Klingt nach Gartenarbeit.
+Mara: Es ist nicht weit davon entfernt. Man legt einen kleinen Stein hin und lässt ihn liegen, bevor man weiterspricht. Dazu später mehr.
+Thorsten: Und was ist mit dem Zeitplan? Wir hatten ja einen Plan.
+Mara: Der Plan hängt an der Wand, Thorsten. Am Vormittag Theorie und Wahrnehmung, dann Rollenspiel, dann die Pause, am Nachmittag der Fall aus dem Pflegealltag und zum Schluss die Abschlussrunde.
+Ilse: Der Fall ist also der wichtigste Teil.
+Mara: Für Sie vielleicht. Für mich ist die Wahrnehmung der wichtigste Teil, weil alles danach auf ihr aufbaut.
+Ilse: Gut, dann warte ich mal auf den Fall.
+@@INSERT e1
+Mara: Ich merke, Sie sind bereit, Ilse. Dann fangen wir an.

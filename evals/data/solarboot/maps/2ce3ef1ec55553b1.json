@@ -1,0 +1,40 @@
+{
+  "v": 2,
+  "chunk": "s3#10",
+  "hash": "2ce3ef1ec55553b1",
+  "context": "Dieser Ausschnitt stammt aus dem YouTube-Video des Kanals TRUE NORTH vom 12. Oktober 2026. Der Bootsbesitzer berichtet über die Folgen des Kenterns seines Solarpunkts, die Bergung von Material im Hafen und die Unterstützung durch die lokale Bevölkerung sowie die Fährgesellschaft.",
+  "summary": "Der Sprecher beschreibt die robuste Bauweise seines Bootes aus Sperrholz und Epoxidharz sowie die Hilfe der Einheimischen. Er darf nun mit Freiwilligen die Batterien und Solarpaneele bergen. Trotz des Schmerzes über den Verlust eines Teils seines Traums bleibt er entschlossen, weiterzumachen und die Zukunft positiv zu gestalten.",
+  "facts": [
+    {
+      "text": "Die Struktur des Bootes wurde aus Sperrholz und Epoxidharz gebaut.",
+      "quote": "That's how you build from plywood epoxy here."
+    },
+    {
+      "text": "Der Bootsbesitzer erfährt massive Unterstützung und Gastfreundschaft von den Einheimischen.",
+      "quote": "I really love the hospitality and massive support I've been getting from the locals."
+    },
+    {
+      "text": "Die Bergung der Batterien und Solarpaneele ist für den nächsten Tag geplant.",
+      "quote": "So tomorrow we're going to dive for the batteries and the solar panels."
+    },
+    {
+      "text": "Die Fährgesellschaft hat dem Sprecher ein Zimmer zur Verfügung gestellt.",
+      "quote": "So this is the room we got uh with the help of the ferry company."
+    },
+    {
+      "text": "Der Bericht findet am dritten Tag nach dem Unfall statt.",
+      "quote": "Day three of the accident."
+    },
+    {
+      "text": "Es wurde eine Rettungsweste gefunden, die angespült wurde.",
+      "quote": "We found the life jacket."
+    }
+  ],
+  "questions": [
+    "Aus welchen Materialien besteht die Struktur des Bootes?",
+    "Wie wird der Bootsbesitzer bei seiner Unterkunft unterstützt?",
+    "Was ist der nächste geplante Schritt bei der Bergung des Bootes?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

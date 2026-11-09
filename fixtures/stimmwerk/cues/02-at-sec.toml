@@ -1,0 +1,32 @@
+# Case 02: cue at seconds (at_sec). Stage 8 kennt nur at_line. Siehe README.md
+format = 1
+title = "Cue-Edge-Fixture (Etappe 8)"
+lang = "de"
+
+[speakers.ERZ]
+persona = "gt"
+label = "Erzähler"
+
+[speakers.Lea]
+persona = "kn"
+label = "Lea"
+
+[speakers.Otto]
+persona = "gerstaecker"
+label = "Otto"
+
+[music]
+duck_db = -12.0
+duck_thresh_db = -50.0
+duck_attack_ms = 20.0
+duck_release_ms = 800.0
+duck_hold_ms = 300.0
+crossfade_ms = 2000.0
+
+[[cues]]
+at_line = 10
+at_sec = 12.0
+file = "assets/music/intro.wav"
+kind = "music"
+gain_db = -20.0
+duck = true

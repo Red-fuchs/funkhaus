@@ -1,0 +1,10 @@
+# SEG 1 | Ankunft
+ERZ|0|Die Fähre legt am kleinen Hafen an.
+Mara|0.6|Da ist er, der Leuchtturm! [laughter]
++Jonas|0.5|Mhm.
+Jonas|0.4|Er ist kleiner, als ich dachte. [pause 500ms] Aber schön.
+
+# SEG 2 | Oben
+ERZ|0.8|Sie steigen die Wendeltreppe hinauf.
+Mara|-0.1|Hundertzwölf Stufen, ich habe mitgezählt.
+Jonas|0.3|[sigh] Und ich habe jede einzelne gespürt.

@@ -1,0 +1,28 @@
+{
+  "v": 2,
+  "chunk": "s3#3",
+  "hash": "7ac9bd2711407191",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH vom 12. Oktober 2026 beschreibt der Erbauer des Solarboots Helios die bürokratischen Hürden nach dem Kentern. Er erläutert seine Pläne, die Rettung eigenständig voranzutreiben, und sucht das Gespräch mit lokalen Akteuren sowie Umweltschützern in Spanien.",
+  "summary": "Der Bootsbesitzer plant, die Bergung seines gekenterten Solarboots Helios selbst zu organisieren, da die offiziellen Rettungsmaßnahmen zu langsam sind. Er sucht Kontakt zur Fährenfirma Balaria für eine freundliche Beschwerde und trifft auf Mitarbeiter eines Meeresforschungsinstituts, das den Schutz des geschützten Seegrases Posidonia übernimmt.",
+  "facts": [
+    {
+      "text": "Die Rettungskräfte schlugen vor, das Boot erst am nächsten Tag mit Luftpontons zu bergen.",
+      "quote": "tomorrow we can put some air pontoons like these air balloons inside"
+    },
+    {
+      "text": "Der Besitzer sieht sich rechtlich als Kapitän und Eigentümer des Schiffes befugt, die Rettung selbst zu planen.",
+      "quote": "I can do it myself legally as a captain"
+    },
+    {
+      "text": "Ein lokaler Dienstleister arbeitet am Schutz des geschützten Meeres-Seegrases Posidonia in Spanien.",
+      "quote": "our principal job here is the conservation of a a marine seagrass called Posetonia"
+    }
+  ],
+  "questions": [
+    "Wie planen die Rettungskräfte, das gekenterte Boot zu bergen?",
+    "Welche rechtliche Rolle nimmt der Besitzer des Solarboots bei der Rettungsaktion ein?",
+    "Was ist die Hauptaufgabe des lokalen Dienstleisters, den der Erbauer trifft?"
+  ],
+  "dropped": 1,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

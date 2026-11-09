@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#1",
+  "hash": "f07a0eb2c215d60b",
+  "context": "Dieser Ausschnitt stammt aus dem YouTube-Video des Kanals TRUE NORTH vom 12. Oktober 2026. Er beschreibt den unmittelbar nach einem Unfall mit einem selbstgebauten Solarboot stattfindenden Versuch, das Boot in einer Bucht in Spanien zu bergen.",
+  "summary": "Nach einem Unfall in einer ruhigen Bucht in Spanien droht dem Erbauer seines handgefertigten Solarboots der Verlust seines Zuhauses. Trotz der natürlichen Auftriebskraft des Bootes und der Bestätigung durch Taucher, dass der Rumpf intakt ist, muss das Boot aufgerichtet und entleert werden. Die Ursache war vermutlich die Wellenbildung durch eine schnelle Fähre sowie eine nicht korrekt befestigte Treppe.",
+  "facts": [
+    {
+      "text": "Der Unfall ereignete sich eine Woche vor der Berichterstattung beim Segeln in Spanien.",
+      "quote": "One week ago, we were sailing in Spain."
+    },
+    {
+      "text": "Erste Taucher bestätigten, dass der Rumpf des Bootes keine nennenswerten Schäden aufwies.",
+      "quote": "The first divers who checked the boat confirmed that there was no significant damage on the hall."
+    },
+    {
+      "text": "Eine große Fähre verursachte durch ihre Geschwindigkeit Wellen von drei bis vier Metern Höhe.",
+      "quote": "The big ferry came full speed into the harbor, of course, legally stopping inside of the harbor to the usual speed"
+    },
+    {
+      "text": "Die Batterien des Bootes dienen als Ballast und befinden sich unter der Treppe.",
+      "quote": "I have batteries underneath the stairs coming into the boat"
+    },
+    {
+      "text": "Ein möglicher Grund für das Kentern war, dass die Treppe nicht wieder fest verschraubt worden war.",
+      "quote": "I didn't bolt the uh uh staircase back"
+    }
+  ],
+  "questions": [
+    "Wo genau ist das Solarboot gekentert?",
+    "Warum war das Boot trotz des Unfalls zunächst noch schwimmfähig?",
+    "Welche Rolle spielten die Wellen der Fähre bei dem Unfall?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

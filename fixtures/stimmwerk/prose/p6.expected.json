@@ -1,0 +1,15 @@
+{"cast": [
+  {"id": "ERZ", "name": "Erzähler", "desc": "Neutraler Erzähler, Küchenszene."},
+  {"id": "HANNE", "name": "Hanne", "desc": "Am Fenster, gereizt, redet lange ohne Pause, spricht nicht zum Gegenüber."},
+  {"id": "TOM", "name": "Tom", "desc": "Am Tisch, schweigsam, ertappt."}
+],
+"lines": [
+  {"who": "ERZ", "text": "Hanne stand am Fenster und sprach, ohne sich umzudrehen."},
+  {"who": "HANNE", "text": "Ich habe dir das schon dreimal erklärt."},
+  {"who": "HANNE", "text": "Die Miete ist im Juli erhöht worden, und zwar nicht von mir."},
+  {"who": "HANNE", "text": "Der Vermieter hat den Brief an beide Adressen geschickt."},
+  {"who": "HANNE", "text": "Du hast ihn nur nie geöffnet."},
+  {"who": "HANNE", "text": "Und wenn du jetzt wieder fragst, wo das Geld bleibt, dann sage ich dir die Wahrheit."},
+  {"who": "ERZ", "text": "Tom saß am Tisch und legte den Löffel weg."},
+  {"who": "TOM", "text": "Ich habe ihn geöffnet, Hanne."}
+]}

@@ -1,0 +1,18 @@
+format = 1
+title = "Der Leuchtturm"
+lang = "de"
+
+[settings]
+loudness = "hoerbuch"
+gap = 0.5
+
+[speakers.ERZ]
+persona = "gt"
+label = "Erzählerin"
+
+[speakers.Mara]
+persona = "kn"
+label = "Mara Lind"
+
+[speakers.Jonas]
+persona = "fable"

@@ -1,0 +1,18 @@
+[package]
+name = "funkhaus-gui"
+version.workspace = true
+edition.workspace = true
+
+[[bin]]
+name = "funkhaus-gui"
+path = "src/main.rs"
+
+[dependencies]
+anyhow.workspace = true
+funkhaus-core.workspace = true
+funkhaus-audio.workspace = true
+funkhaus-sys.workspace = true
+eframe = "0.33"
+rfd = "0.15"
+png = "0.17"
+egui_kittest = { version = "0.33", features = ["wgpu", "eframe"] }

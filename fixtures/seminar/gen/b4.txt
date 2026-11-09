@@ -1,0 +1,56 @@
+@@BLOCK Pause und Technik-Störung
+Mara: Ich mach kurz das Ansteckmikro an, damit die Aufnahme für das Skript sauber bleibt. Wir sind in der Pause, Sie müssen nichts sagen.
+Jonas: Mara, du hast das Mikro noch an, glaube ich. Das Lämpchen blinkt.
+Mara: Ach ja, danke. Ich mach es gleich aus. Ich geh kurz zur Kaffeemaschine.
+@@OUTCUT_START
+Selma: Jonas, sag mal, wie geht's Lotta? Hat sie die Mathearbeit gut geschrieben?
+Jonas: Naja, eine Drei minus. Sie ist sauer auf sich selbst, das kennst du ja. Und sie will unbedingt zum Geburtstag von Mia am Samstag.
+Selma: Oh je. Wie alt wird Mia? Vierzehn?
+Jonas: Dreizehn, sie hat jetzt diese Phase mit den Freundinnen. Ich soll sie nicht zu sehr kontrollieren. Ich weiß nicht, wie ich das mache.
+Selma: Ich hab's mit meinem Enkel genauso. Der will gar nicht mehr zu uns zum Essen kommen. Mein Mann sagt, das ist normal. Ich find's doof.
+Jonas: Ja, das ist echt schwer. Kommst du heute Abend noch zum Kiosk? Dann können wir weiterquatschen.
+Selma: Nein, heute geht's nicht, ich muss den Hund zum Tierarzt bringen. Der Rex hat wieder Ohrenprobleme, das ist das dritte Mal dieses Jahr.
+Jonas: Oh Mann, der arme Kerl. Hoffentlich nichts Schlimmes.
+Selma: Der Doktor meint, es ist nur eine Entzündung. Die Tropfen müssen halt zweimal am Tag rein, das wird ein Kampf.
+Jonas: Mit dem Hund oder mit dir?
+Selma: Mit beiden. Aber das weißt du ja, du hast Nachtdienst und keine Zeit für so was.
+Jonas: Stimmt. Ich hab die Woche zwei Nächte, und Samstag hab ich frei. Vielleicht kann ich Lotta zum Geburtstag fahren, wenn du mir sagst, wo.
+Selma: Ich schick dir die Adresse. Die Mia wohnt in der Siedlung hinterm Bahnhof, das ist so eine Reihenhauszeile mit den grünen Türen.
+Jonas: Ah, die kenn ich. Dann bringe ich Lotta hin und hol sie um acht ab.
+Selma: Gut, so machen wir das. Und wegen Lotta: Sag ihr einfach, sie soll nicht zu viel ins Handy schauen, dann ist die Mathe-Sache schnell vergessen.
+Jonas: Ha, das sagt die Richtige. Du bist auch ständig am Handy.
+Selma: Ja, ich weiß. Ich bin schlimm. Dann lass uns mal wieder reingehen, bevor Mara wieder anfängt.
+@@OUTCUT_END
+Mara: Hört man mich? Hallo? Ich glaube, das Mikro hat ein Problem.
+Jonas: Mara, du bist gerade ziemlich knisterig. Du hast so ein Knacken drin.
+Mara: Moment, das hab ich eben nicht gemerkt. Ich prüf mal die Verbindung am Empfänger.
+Thorsten: Der Empfänger ist auf der Fensterbank. Da hat jemand den Stecker gezogen, glaube ich, als er die Lüftung zugemacht hat.
+Mara: Danke, Thorsten. Dann schließe ich ihn wieder an. Sagen Sie mir bitte, ob Sie mich jetzt besser hören.
+Selma: Ja, jetzt ist es okay. Ein bisschen leise noch.
+Ilse: Ich hör's auch. Aber es knackt immer noch wie beim Radio früher.
+Mara: Ich ziehe das Mikro kurz von der Jacke ab und stecke es neu. Wenn das nicht hilft, nehme ich den Tischlautsprecher.
+Thorsten: Der Tischlautsprecher ist im Schrank, Schlüssel liegt auf dem Tisch. Ich hol ihn schnell.
+Mara: Danke, Thorsten. Sie merken: Auch ein Technikausfall ist Teil des Alltags. Man muss nicht warten, bis alles perfekt ist.
+Jonas: Mara, bist du wieder da? Ich hör dich gerade ganz klar.
+Mara: Ja, bin wieder da. Die Batterie war vermutlich zu schwach, ich habe sie gewechselt. Der Empfänger hat einen grünen Punkt, das heißt: stabil.
+Ilse: Gut. Ich hab gedacht, wir machen heute gar nichts mehr.
+Mara: So schnell gebe ich nicht auf, Ilse. Wir sind bei zehn Minuten Verspätung, das holen wir in der Fallbesprechung nicht ein. Ich kürze dort die Pausenzeit beim Nachmittag.
+Thorsten: Mit einer kurzen Mittagspause, oder?
+Mara: Ja, aus einer Stunde werden vierzig Minuten. Das wird knapp, aber es geht. Ich bitte Sie, pünktlich zurück zu sein.
+Selma: Wir sind ja pünktlich. Ich war nur kurz bei der Toilette, sorry.
+Mara: Kein Problem, Selma. Ich zähle niemanden an, der auf die Toilette muss.
+Jonas: Gut. Dann kann es weitergehen. Was machen wir jetzt, Mara? Kiesel?
+Mara: Wir machen eine kurze Runde zum Kiesel, und zwar mit Ihrer eigenen Erfahrung aus dem Rollenspiel. Wer hat die drei Sekunden Stille ausprobiert?
+Ilse: Ich. In der letzten Runde hab ich den Mund gehalten, bis Thorsten fertig war. Das waren aber nicht drei Sekunden, das war eher ein Schlucken.
+Mara: Das ist ein sehr ehrliches Ergebnis. Die Stille fühlt sich länger an, als sie ist. Wir messen das nicht, wir spüren es.
+Thorsten: Ich hab es im Rollenspiel probiert und dann die Zeit im Kopf gezählt. Eins, zwei, drei. Es war gar nicht so schlimm.
+Selma: Bei mir hat die Stille gewirkt. Thorsten hat dann von selbst weitergemacht, und das war viel ruhiger als vorher.
+Mara: Genau das. Die Stille ist ein Angebot, kein Loch. Wir kommen gleich zu weiteren Details und zur Fallbesprechung, aber zuerst will ich die Technik abschließen.
+Mara: Ich habe das Mikro jetzt stabil. Wenn es wieder knackt, sage ich Bescheid, und dann sprechen wir lauter, und Thorsten holt den Lautsprecher.
+Jonas: Sag doch bitte kurz, was du mit dem Empfänger gemacht hast. Ich will das beim nächsten Mal selbst können.
+Mara: Gern. Der Empfänger hat einen Ein-Aus-Knopf auf der Rückseite, und die Anzeige leuchtet grün, wenn die Verbindung steht. Wenn es knackt, ist meist die Batterie oder der Kontakt im Stecker schuld.
+Jonas: Gut zu wissen. Dann muss ich nicht mehr raten.
+Mara: Genau. Wir gehen weiter. Ich lasse Sie kurz in Ruhe Ihre Notizen fertig machen, dann beginnen wir mit dem Fall.
+Ilse: Der Fall, ja. Ich bin gespannt, wie der aussieht.
+@@INSERT e5
+Mara: Er ist aus einer Nachtschicht, mit wenig Personal, wie Sie es kennen. Ich beschreibe ihn gleich vollständig.

@@ -1,0 +1,26 @@
+{
+  "cast": [
+    {"id": "ERZ", "name": "Erzähler", "desc": "Neutraler Erzähler, keine Figuren mit Sprechanteil."}
+  ],
+  "lines": [
+    {"who": "ERZ", "text": "Das Haus stand am Ende der Gasse, zwischen zwei Lagerschuppen aus Holz."},
+    {"who": "ERZ", "text": "Seit dem Frühjahr war niemand mehr hineingegangen."},
+    {"who": "ERZ", "text": "Die Fenster waren blind vom Staub, und die Regenrinne hing schief über der Tür."},
+    {"who": "ERZ", "text": "Wer dort vorbeikam, ging schneller."},
+    {"who": "ERZ", "text": "Man sagte, der Besitzer sei fortgezogen."},
+    {"who": "ERZ", "text": "Andere meinten, er sei nie zurückgekehrt."},
+    {"who": "ERZ", "text": "Beides klang nach einer Geschichte, die jemand besser erzählen konnte."},
+    {"who": "ERZ", "text": "An einem Dienstagnachmittag im September blieb ein Junge vor dem Gartentor stehen."},
+    {"who": "ERZ", "text": "Er hatte einen Ball unter dem Arm und keinen Plan."},
+    {"who": "ERZ", "text": "Das Tor quietschte, als er es aufdrückte."},
+    {"who": "ERZ", "text": "Im Garten wuchs das Unkraut bis zur Hüfte."},
+    {"who": "ERZ", "text": "Zwischen den Stängeln lag ein Gartenschlauch, grün und steif vom Wetter."},
+    {"who": "ERZ", "text": "Der Junge bückte sich und hob ihn auf."},
+    {"who": "ERZ", "text": "Er war schwerer, als er aussah."},
+    {"who": "ERZ", "text": "Hinter dem Haus fand er eine Bank aus Eichenbrettern."},
+    {"who": "ERZ", "text": "Auf ihr lag ein Notizbuch, dessen Einband sich wellte."},
+    {"who": "ERZ", "text": "Der Junge schlug es nicht auf."},
+    {"who": "ERZ", "text": "Er legte es zurück, genau an die Stelle, an der es gelegen hatte."},
+    {"who": "ERZ", "text": "Dann verließ er den Garten, bevor die Sonne hinter den Schuppen sank."}
+  ]
+}

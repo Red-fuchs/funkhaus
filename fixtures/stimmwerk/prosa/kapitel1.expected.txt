@@ -1,0 +1,36 @@
+# SEG 1 | Der Kai
+ERZ|0|Kiesbucht ist ein Dorf an der Nordküste, wenige Gassen lang und fast immer im Nebel.
+ERZ|0.5|Im Herbst kommt er früh, und mit ihm kommt die Stille.
+ERZ|0.5|Niemand spricht gern über den alten Leuchtturm auf der Landzunge, seit dort das Licht ausging.
+ERZ|0.8|Am 3. Oktober 1964 hatte er zum letzten Mal gebrannt.
+ERZ|0.5|Danach gab es nur noch Gerüchte, und die Gerüchte wurden von Jahr zu Jahr seltsamer.
+ERZ|0.6|Die Fischer mieden die Felsen am Ende der Landzunge.
+ERZ|0.3|Wer dort nachts ein Licht sah, erzählte es niemandem, weil ihm sonst niemand glaubte.
+ERZ|0.3|Die Kinder spielten am Kai Fangen, und die Alten saßen auf den Bänken vor dem Laden und redeten über das Wetter, bis es dunkel wurde.
+ERZ|0.6|Mara Lenz unterrichtete die wenigen Kinder des Dorfes und hatte den Turm nie betreten.
+ERZ|0.5|Sie stand am Kai, als Jonas mit einer Laterne den Weg heraufkam.
+ERZ|0.4|Sein Mantel war nass bis zu den Knien.
+Mara|0.6|Du hast ihn also tatsächlich gefunden.
+Jonas|0.6|Ich habe ihn nicht gefunden. Er hat mich gefunden. [laughter]
+ERZ|0.5|Dann wurde er wieder ernst.
+# SEG 2 | Die Kiste
+ERZ|0|Ilse Brandt wohnte im letzten Haus der Gasse.
+ERZ|0.5|Sie öffnete die Tür, bevor sie klopfen konnten, als hätte sie auf sie gewartet.
+Ilse|0.6|Der Schlüssel liegt in der Kiste, wie immer. Ihr müsst nur die Netze wegräumen.
+Ilse|0.5|[sigh] Mein Mann hat früher jeden Abend dort oben das Licht gemacht. Ich habe es bis heute nicht vergessen.
+Mara|0.5|Welche Kiste?
+ERZ|0.6|Der Flur roch nach Salz und altem Teer.
+ERZ|0.4|Die Uhr an der Wand war stehen geblieben, und niemand hatte sie je wieder aufgezogen.
+ERZ|0.5|Ilse zeigte in den Flur.
+ERZ|0.3|Dort stand eine Kiste mit blauem Deckel, darunter ein Stapel alter Netze.
+ERZ|0.3|Jonas kniete nieder und hob den Deckel an.
+Jonas|0.5|Hier liegt nur ein Zettel.
+ERZ|0.6|Mara trat näher.
+ERZ|0.3|Auf dem Zettel stand mit Bleistift eine einzige Zeile.
+Mara|0.4|Das Licht brennt, wenn der Nebel schweigt.
+Mara|0.6|Das ist kein Hinweis, das ist ein Gedicht.
+ERZ|0.7|Draußen hatte sich der Nebel ein wenig gehoben.
+ERZ|0.3|Hinter der Landzunge flackerte etwas, kaum sichtbar, wie ein Streichholz im Wind.
+Mara|0.7|Dann gehen wir jetzt.
+ERZ|0.4|Jonas nickte und nahm die Laterne.
+ERZ|0.6|Gemeinsam gingen sie den Weg hinunter zum Strand, wo der Sand bei Ebbe fest genug war, um nicht zu versinken.

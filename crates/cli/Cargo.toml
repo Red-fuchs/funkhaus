@@ -1,0 +1,17 @@
+[package]
+name = "funkhaus-cli"
+version.workspace = true
+edition.workspace = true
+
+[[bin]]
+name = "funkhaus"
+path = "src/main.rs"
+
+[dependencies]
+anyhow.workspace = true
+serde_json.workspace = true
+funkhaus-core.workspace = true
+funkhaus-voice.workspace = true
+funkhaus-audio.workspace = true
+funkhaus-sys.workspace = true
+clap = { version = "4", features = ["derive"] }

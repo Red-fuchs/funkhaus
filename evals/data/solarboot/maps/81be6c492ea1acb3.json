@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#5",
+  "hash": "81be6c492ea1acb3",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH vom 12. Oktober 2026 schildert der Besitzer des Solarboots Helios die Folgen der bürokratischen Hindernisse nach dem Kentern. Er beschreibt die Situation vor Ort, die Zerstörung des Bootes und seine Pläne für die Zukunft trotz der Behinderung durch die Behörden.",
+  "summary": "Der Besitzer des Solarboots Helios berichtet über die vollständige Zerstörung seines Bootes, das aufgrund bürokratischer Verzögerungen nicht rechtzeitig geborgen werden konnte. Trotz der emotionalen Belastung und der Behinderung durch die Behörden plant er bereits den Bau eines neuen Bootes und möchte die Reinigung des Fundorts durch Freiwillige organisieren.",
+  "facts": [
+    {
+      "text": "Ein unbewehrter Löcher in der Sperrholzstruktur wurde durch die starken Wellen zerstört.",
+      "quote": "The unreinforced uh, plywood hole that has been beating on the bottom in these [music] huge waves has been destroyed."
+    },
+    {
+      "text": "Die eigentliche Struktur und der Boden des Bootes scheinen fast vollständig intakt zu sein.",
+      "quote": "the actual structure of the boat, the bottom seems to be uh almost fully intact"
+    },
+    {
+      "text": "Eine Reparatur des Bootes wird als zu aufwendig und nicht lohnenswert erachtet.",
+      "quote": "there's no no point trying to fix the boat. Uh, it's too much work."
+    },
+    {
+      "text": "Der Besitzer hat bereits mit dem Bau des nächsten Bootes begonnen.",
+      "quote": "I'm building the next boat already."
+    },
+    {
+      "text": "Er plant, Freiwillige für die Reinigung des Fundortes einzusetzen.",
+      "quote": "I will get the volunteers uh to clean this up."
+    }
+  ],
+  "questions": [
+    "Warum konnte das Solarboot Helios nicht rechtzeitig geborgen werden?",
+    "Wie ist der Zustand der Bootsstruktur nach dem Kentern?",
+    "Was plant der Besitzer als Nächstes nach der Zerstörung des Bootes?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

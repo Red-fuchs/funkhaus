@@ -1,0 +1,8 @@
+{
+  "error": {
+    "message": "Rate limit reached for fixture-model.",
+    "type": "requests",
+    "param": null,
+    "code": "rate_limit_exceeded"
+  }
+}

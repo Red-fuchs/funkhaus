@@ -1,0 +1,32 @@
+O|0|Okay, Max, wir müssen reden. Also, Fable und ich haben uns deine letzten drei Tage angeschaut, und, ähm, wow.
+F|0.05|Wow ist das richtige Wort. Sechzehn Projekte! In drei Tagen!
+O|0.1|Sechzehn. Und das Verrückte ist, die meisten davon funktionieren sogar.
+F|-0.15|Ja, das ist ja das Problem! [laughter]
+O|0.1|Nein, warte, lass mich erst das Gute sagen. Omnivoice, die Sprachausgabe, die du gerade hörst, ist praktisch fertig. Acestep für Musik auch.
+B|0.55|Mhm.
+F|0.1|Und der Kalender. Der startet sogar Sitzungen von selbst. Das ist echt clever.
+O|0.1|Und dann gibt es diesen stillen Gewinner. Den FREE-Ship-Nachbau.
+F|0.05|Den du übrigens völlig unterschätzt hast.
+O|0.05|Ja, okay, ertappt. [laughter] Ich hatte fünfundvierzig Prozent, Fable sagt achtzig.
+F|0.1|Weil da alles drin ist! Hydrostatik, Widerstand, Platten abwickeln, dreiundfünfzig Tests. Das hat nur keiner gemerkt.
+O|0.15|Gut. Und jetzt kommt der Teil, wo es unangenehm wird.
+F|0.05|Jetzt kommt der Teil.
+O|0.1|Es gibt genau eine Zeile in der Grafik, die Geld bringt. Die blaue. Der Kunde.
+B|0.7|Genau.
+F|0.1|Und die blaue Zeile? Die steht. Seit gestern Abend. Die ganze Schnitt-Pipeline wartet nur auf eine Sache.
+O|0.05|Auf dich, Max.
+F|0.05|Auf dich! Nicht auf Qwen, nicht auf Gemma. Auf dein Review in FilmCraft.
+O|0.15|Und gleichzeitig, das muss man einfach sagen, sechzig Commits an einem Tag für terra.
+F|-0.1|Für ein Hexenspiel! [laughter]
+O|0.05|Für ein wirklich schönes Hexenspiel, das muss man fairerweise sagen.
+F|0.1|Schön, ja. Aber spielbar ist noch kein Spiel. Und Woanders leben, der Kanal, hat noch kein einziges Video.
+O|0.15|Wobei, Fable, ich verstehe das. Bauen fühlt sich an wie Fortschritt. Da sieht man sofort was.
+F|0.05|Genau das ist der Punkt. Bauen fühlt sich an wie Fortschritt. Ein Anruf fühlt sich an wie, naja, ein Anruf.
+O|0.1|[laughter] Ja. Aber der Anruf bezahlt die Miete.
+F|0.1|Also, Max, was machst du jetzt?
+O|0.05|Die gute Nachricht: Es steht schon im Kalender. Morgen neun bis zwölf FilmCraft-Review, direkt danach der Kunde.
+F|0.05|Und Mittwoch um zehn das große Gespräch. Dreihundert Euro pro Tag ab Januar, Ulm als Pilot.
+O|0.1|Und danach?
+F|0.05|Danach darfst du wieder Hexen zeichnen. [laughter]
+O|0.1|Das war der Projekt-Funk. Mach's gut, Max.
+F|0.05|Ruf den Kunden an! Tschüss!

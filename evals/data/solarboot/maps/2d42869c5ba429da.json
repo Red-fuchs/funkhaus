@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#7",
+  "hash": "2d42869c5ba429da",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH vom 12. Oktober 2026 reflektiert der Bootsbesitzer über die Ursachen der Kenterung seines Solarboots Helios 11. Er analysiert die strukturellen Schäden am Boot, während am Hafen Bergungsarbeiten mit einem Kran stattfinden und Schaulustige sowie Behörden zusehen.",
+  "summary": "Der Besitzer stellt fest, dass der Rumpf der Helios trotz des Unfalls weitgehend intakt ist, die strukturelle Box jedoch zerstört wurde. Er betont, dass die Kenterung nicht durch das Meer, sondern durch menschliches Versagen bei der Sicherung der Batterien verursacht wurde. Er plant nun ein stärkeres, robusteres nächstes Boot.",
+  "facts": [
+    {
+      "text": "Der Kern des Bootsrumpfes ist trotz des Aufpralls am Dock weitgehend intakt geblieben.",
+      "quote": "the core of the hole is uh mostly intact uh despite uh hitting the dock"
+    },
+    {
+      "text": "Die entstandenen Schäden waren nicht natürlicher Art, sondern wurden nicht durch das Meer verursacht.",
+      "quote": "None of the damage was natural here."
+    },
+    {
+      "text": "Ein wesentlicher Grund für das Unglück war die mangelnde Sicherung der Batterien, die als Ballast fungieren.",
+      "quote": "I should always keep the batteries [music] secured because the batteries are the the ballast of the boat."
+    },
+    {
+      "text": "Die obere, torsionsresistente Strukturbox des gesamten Bootes wurde zerstört.",
+      "quote": "the top structural uh torsion resistant box of the entire hole is gone"
+    },
+    {
+      "text": "Eine Person namens Fay hat den Verlust des Bootes und ihrer Kleidung emotional schwerer zu verarbeiten als der Besitzer.",
+      "quote": "Fay has taken this harder than I have."
+    }
+  ],
+  "questions": [
+    "War das Meer für die Kenterung des Solarboots verantwortlich?",
+    "Was muss beim Bau des nächsten Bootes anders gemacht werden?",
+    "Welche Teile der Bootsstruktur sind nach dem Unfall noch intakt?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

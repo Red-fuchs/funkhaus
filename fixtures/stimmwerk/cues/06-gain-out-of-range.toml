@@ -1,0 +1,33 @@
+# Case 06: gain_db ausserhalb |gain| <= 60. Siehe README.md
+format = 1
+title = "Cue-Edge-Fixture (Etappe 8)"
+lang = "de"
+
+[speakers.ERZ]
+persona = "gt"
+label = "Erzähler"
+
+[speakers.Lea]
+persona = "kn"
+label = "Lea"
+
+[speakers.Otto]
+persona = "gerstaecker"
+label = "Otto"
+
+[music]
+duck_db = -12.0
+duck_thresh_db = -50.0
+duck_attack_ms = 20.0
+duck_release_ms = 800.0
+duck_hold_ms = 300.0
+crossfade_ms = 2000.0
+
+[[cues]]
+at_line = 1
+file = "assets/music/intro.wav"
+kind = "music"
+gain_db = -75.0
+fade_in = 2.0
+fade_out = 2.0
+duck = true

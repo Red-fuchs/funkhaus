@@ -1,0 +1,22 @@
+{"q": "Welche Batteriechemie hat Ines Halvorsen für die Moth Wing gewählt?", "quote": "I bought sixteen prismatic LFP cells, each rated at 200 amp hours and 3.2 volts.", "kind": "direct"}
+{"q": "Wie viele Zellen stecken im Akku der Moth Wing?", "quote": "sixteen prismatic LFP cells", "kind": "direct"}
+{"q": "Wie viele Ladezyklen garantiert der Hersteller für die LFP-Zellen?", "quote": "the manufacturer rates the LFP cells for over 3,000 cycles at eighty percent capacity", "kind": "direct"}
+{"q": "Wie viel kostet der Akku insgesamt?", "quote": "Total: 3,090 euros.", "kind": "direct"}
+{"q": "Was kostet der neue Laderegler nach dem Blitzschlag?", "quote": "A new charge controller cost 610 euros.", "kind": "direct"}
+{"q": "Wie viel wiegt der LFP-Akku?", "quote": "The pack weighs 118 kilograms.", "kind": "direct"}
+{"q": "Wie viel Einfuhrumsatzsteuer hat der Zoll in Port Arvel für den Motorregler verlangt?", "quote": "import VAT of 620 euros was due", "kind": "direct"}
+{"q": "Wie lange hat die Erdung des Mastes gedauert?", "quote": "That work took me eleven days", "kind": "direct"}
+{"q": "Wo begann der Anker in der Sturmnacht zu rutschen?", "quote": "the anchor started to drag over a rocky patch", "kind": "direct"}
+{"q": "Welche Motoren hat die Moth Wing?", "quote": "two 8 kilowatt permanent magnet units, one in each hull", "kind": "direct"}
+{"q": "Was hat das Unwetter mit der Elektrik gemacht?", "quote": "it fried the solar charge controller, and it killed the motor controller on the port side", "kind": "oblique"}
+{"q": "Welche Alternative war die naheliegende Wahl, bevor man sich umentschied?", "quote": "the obvious choice was nickel manganese cobalt, because it stores more energy per kilogram", "kind": "oblique"}
+{"q": "Wie sieht es bei beschädigten Zellen mit dem Risiko aus?", "quote": "It is also far less likely to go into thermal runaway if a cell is damaged", "kind": "oblique"}
+{"q": "Wie weit kommt man mit einer Ladung bei gemütlichem Tempo?", "quote": "gives me roughly eight miles with a margin", "kind": "oblique"}
+{"q": "Warum ging der Ladestand in der Nacht schneller runter als erwartet?", "quote": "I noticed the battery display falling faster than I expected", "kind": "oblique"}
+{"q": "Was ist im Sturm wertvoller als eine zusätzliche Kilowattstunde?", "quote": "a battery with a clear state of charge readout is worth more than any extra kilowatt hour", "kind": "oblique"}
+{"q": "Wie lange dauerte der Streit mit den Beamten im Hafen?", "quote": "For four days I went back and forth", "kind": "oblique"}
+{"q": "Welcher Schritt hat am Ende die Freigabe ermöglicht?", "quote": "a second officer looked at the serial number, matched it to the original warranty claim", "kind": "oblique"}
+{"q": "Was rät die Skipperin, damit ein Ersatzteil später kein Problem wird?", "quote": "Keep the warranty paperwork with the part, and put the serial number on the invoice.", "kind": "oblique"}
+{"q": "Wie leitet die Skipperin den Blitz ab, damit die Geräte keinen Schaden nehmen?", "quote": "giving the current a path to the water that does not go through your electronics", "kind": "oblique"}
+{"q": "Welchen Preis zahlte Ines Halvorsen für ein Hafenpatent in Lissabon?", "quote": "", "kind": "oblique", "none": true}
+{"q": "Wie heißt der Hund, der auf der Moth Wing mitgereist ist?", "quote": "", "kind": "oblique", "none": true}

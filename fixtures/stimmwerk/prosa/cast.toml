@@ -1,0 +1,19 @@
+# Synthetic test cast for kapitel1.md. Instruct strings use only documented OmniVoice
+# attributes (docs/stimmwerk/instruct-presets.md): gender, age, pitch, whisper.
+# Max one value per category, comma-separated, lowercase.
+
+[ERZ]
+description = "Erzähler, ruhig, sachlich, ohne Dramatik"
+instruct = "male, middle-aged, low pitch"
+
+[Mara]
+description = "Lehrerin, mittleres Alter, klar und bestimmt"
+instruct = "female, middle-aged, moderate pitch"
+
+[Jonas]
+description = "Junger Fischer, trocken, etwas unsicher"
+instruct = "male, young adult, moderate pitch"
+
+[Ilse]
+description = "Alte Frau, schwer, erinnernd"
+instruct = "female, elderly, low pitch"

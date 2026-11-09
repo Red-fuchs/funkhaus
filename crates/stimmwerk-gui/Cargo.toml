@@ -1,0 +1,26 @@
+[package]
+name = "stimmwerk-gui"
+version.workspace = true
+edition.workspace = true
+
+[[bin]]
+name = "stimmwerk-gui"
+path = "src/main.rs"
+
+[dependencies]
+anyhow.workspace = true
+serde.workspace = true
+serde_json.workspace = true
+stimmwerk-core.workspace = true
+funkhaus-sys.workspace = true
+funkhaus-audio.workspace = true
+funkhaus-voice.workspace = true
+funkhaus-llm.workspace = true
+eframe = "0.33"
+rfd = "0.15"
+png = "0.17"
+egui_kittest = { version = "0.33", features = ["wgpu", "eframe"] }
+
+[dev-dependencies]
+tempfile = "3"
+funkhaus-llm = { workspace = true, features = ["testsrv"] }

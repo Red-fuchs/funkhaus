@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#4",
+  "hash": "2ee31eeed4422dc0",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH vom 12. Oktober 2026 berichtet der Bootsbesitzer über Begegnungen mit Naturschützern in Spanien und die bürokratischen Hürden bei der Bergung seines Solarboots Helios. Er beschreibt zudem erste Pläne für die spätere Restaurierung des Bootes nach der Rettung.",
+  "summary": "Ein Mitarbeiter eines Meeresforschungsinstituts warnt vor Bußgeldern durch das Ankern in geschützten Posidonia-Seegraswiesen in Spanien. Während der Hafenmeister jegliche Eigenbemühungen zur Bergung des Helios untersagt hat, plant der Besitzer bereits die zukünftige Restaurierung des Bootes mit Unterstützung von Daniel und der lokalen Gemeinschaft.",
+  "facts": [
+    {
+      "text": "Die Hauptaufgabe des Forschungsinstituts ist der Schutz des in Spanien sehr geschützten Seegrases Posidonia.",
+      "quote": "our principal job here is the conservation of a a marine seagrass called Posetonia which is very protected in Spain."
+    },
+    {
+      "text": "Die Bergung des Bootes muss nun durch offizielle Rettungsteams erfolgen.",
+      "quote": "we're going to go with the uh official rescue teams and see what they can do."
+    },
+    {
+      "text": "Dank der lokalen Gemeinschaft wurde ein potenzieller Ort auf einem Privatgrundstück gefunden, um die Helios zu lagern.",
+      "quote": "through the help from the local community uh a potential place at somebody's property to keep the Helios"
+    },
+    {
+      "text": "Die geplanten Upgrades für das Boot umfassen einen Reverse Bow, verbesserte Solarmodule und mehr Platz am Heckdeck.",
+      "quote": "Reverse bow, improved solar with bigger windows and more space at the rear deck."
+    },
+    {
+      "text": "Zu den weiteren geplanten Modifikationen gehören strukturelle Verstärkungen und ein kleiner Ersatzmotor.",
+      "quote": "Some structural reinforcements and a small backup engine."
+    }
+  ],
+  "questions": [
+    "Warum kann man in Spanien wegen des Ankerns bestraft werden?",
+    "Warum darf der Besitzer sein Boot nicht selbst bergen?",
+    "Welche technischen Verbesserungen sind für die Helios nach der Bergung geplant?"
+  ],
+  "dropped": 1,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

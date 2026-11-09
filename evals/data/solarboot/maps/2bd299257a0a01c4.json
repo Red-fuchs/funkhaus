@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#9",
+  "hash": "2bd299257a0a01c4",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH vom 12. Oktober 2026 berichtet der Besitzer des Solarboots Helios über die Situation in Dénia, Spanien. Nach dem Kentern des Bootes beschreibt er die Unterstützung durch die Einheimischen, die Blockaden durch die Behörden sowie die beginnenden Bergungsarbeiten und die Reinigung des Strandes.",
+  "summary": "Der Bootsbesitzer beschreibt die Unterstützung durch die lokale Bevölkerung in Dénia, während offizielle Stellen seine Bergungsbemühungen behindern. Er beginnt mit der Reinigung des Strandes von Trümmern und Müll sowie der Bergung des ersten Solarpaneels. Zudem reflektiert er über den enormen Arbeitsaufwand beim Bau des Bootes und die strukturelle Festigkeit der Konstruktion aus Sperrholz und Epoxidharz.",
+  "facts": [
+    {
+      "text": "Die Einheimischen in Dénia, Spanien, unterstützen den Besitzer aktiv bei seinem Vorhaben.",
+      "quote": "the locals, I just love them here in Dena in Spain. They've been doing everything to help me."
+    },
+    {
+      "text": "Es ist gelungen, das erste Solarpaneel des Bootes aus dem Wasser zu bergen.",
+      "quote": "We got the first solar panel recovered."
+    },
+    {
+      "text": "Zwischen den Felsen des Piers wurden zahlreiche Sperrholzreste des Bootes gefunden.",
+      "quote": "We find a lot of plywood scraps between the rocks of the pier."
+    },
+    {
+      "text": "Der Bau des Bootes dauerte über sechs Monate und wurde größtenteils allein von Hand durchgeführt.",
+      "quote": "I've been putting so much uh work into the boat, [snorts] creating it, building it by hand, mostly alone uh over 6 months"
+    },
+    {
+      "text": "Die Struktur des Bootes blieb aufgrund der Konstruktion aus Sperrholz und Epoxidharz weitgehend stabil.",
+      "quote": "that's why this structure uh [music] has remained quite solid. That's how you build from plywood epoxy here."
+    }
+  ],
+  "questions": [
+    "Wie unterstützen die Einheimischen in Dénia den Bootsbesitzer?",
+    "Was wurde bei der Bergung des Bootes bereits erfolgreich aus dem Wasser geholt?",
+    "Wie lange hat der Besitzer an dem Bau des Bootes gearbeitet?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

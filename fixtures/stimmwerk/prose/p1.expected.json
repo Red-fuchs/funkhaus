@@ -1,0 +1,30 @@
+{
+  "cast": [
+    {"id": "ERZ", "name": "Erzähler", "desc": "Neutraler Erzähler, Bahnsteig-Szene."},
+    {"id": "RIKE", "name": "Rike", "desc": "Frau mit rotem Koffer, wartet, friert, trocken."},
+    {"id": "LENA", "name": "Lena", "desc": "Ankommende Freundin, ruhig, leicht genervt."}
+  ],
+  "lines": [
+    {"who": "ERZ", "text": "Der Bahnsteig war leer, bis auf Rike mit einem roten Koffer."},
+    {"who": "RIKE", "text": "Du bist spät."},
+    {"who": "LENA", "text": "Der Zug hatte Verspätung."},
+    {"who": "LENA", "text": "Das weißt du doch."},
+    {"who": "RIKE", "text": "Ich weiß nur, dass ich seit zwanzig Minuten friere."},
+    {"who": "ERZ", "text": "Lena stellte ihre Tasche auf die Bank."},
+    {"who": "LENA", "text": "Dann hättest du in den Wartesaal gehen können."},
+    {"who": "RIKE", "text": "Der Wartesaal ist geschlossen."},
+    {"who": "RIKE", "text": "Seit Mai."},
+    {"who": "LENA", "text": "Seit Mai?"},
+    {"who": "LENA", "text": "Woher weißt du das?"},
+    {"who": "RIKE", "text": "Ein Schild."},
+    {"who": "RIKE", "text": "Und ein Mann, der es mir sehr ausführlich erklärt hat."},
+    {"who": "ERZ", "text": "Lena lachte kurz."},
+    {"who": "ERZ", "text": "Rike drehte sich endlich um."},
+    {"who": "RIKE", "text": "Hm."},
+    {"who": "RIKE", "text": "Gut, dass du da bist."},
+    {"who": "ERZ", "text": "Aus dem Lautsprecher kam die Durchsage: Der Regionalzug nach Dornhagen fährt auf Gleis drei ein, Abfahrt siebzehn Uhr zweiundvierzig."},
+    {"who": "LENA", "text": "Sieben Minuten."},
+    {"who": "RIKE", "text": "Sechs."},
+    {"who": "RIKE", "text": "Die Uhr da hinten geht vor."}
+  ]
+}

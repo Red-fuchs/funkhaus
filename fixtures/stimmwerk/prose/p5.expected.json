@@ -1,0 +1,18 @@
+{"cast": [
+  {"id": "ERZ", "name": "Erzähler", "desc": "Neutraler Erzähler, Flur-Szene. Schilder, Zettel und Durchsagen gehören hierher."},
+  {"id": "JULE", "name": "Jule", "desc": "Wartende Frau vor dem Aufzug, ungeduldig, sarkastisch."}
+],
+"lines": [
+  {"who": "ERZ", "text": "Im Flur hing ein Schild: Bitte Tür leise schließen."},
+  {"who": "ERZ", "text": "Danke."},
+  {"who": "ERZ", "text": "Darunter klebte ein handgeschriebener Zettel mit Filzstift."},
+  {"who": "ERZ", "text": "Aus dem Lautsprecher über der Pforte kam die Durchsage: Achtung, der Aufzug im Westflügel ist bis Freitag außer Betrieb."},
+  {"who": "ERZ", "text": "Bitte die Treppe benutzen."},
+  {"who": "ERZ", "text": "Jule stand vor dem Aufzug und sah auf die Uhr."},
+  {"who": "ERZ", "text": "Sie drückte trotzdem auf den Knopf."},
+  {"who": "JULE", "text": "Wie lange noch?"},
+  {"who": "ERZ", "text": "Auf dem Tresen lag eine Kopie des Zettels: Treppe nur mit Handlauf benutzen."},
+  {"who": "ERZ", "text": "Jule schnaubte."},
+  {"who": "JULE", "text": "Das ist ja ein Witz."},
+  {"who": "ERZ", "text": "An der Tür zu Büro 3 stand in Druckbuchstaben: Zutritt nur mit Ausweis."}
+]}

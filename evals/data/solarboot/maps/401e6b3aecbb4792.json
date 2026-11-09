@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#8",
+  "hash": "401e6b3aecbb4792",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH vom 12. Oktober 2026 untersucht der Besitzer des Solarboots 'Helios' die strukturellen Schäden nach der Kenterung. Er analysiert die Beständigkeit des Bootsrumpfes und thematisiert die bürokratischen Hindernisse, die ihn daran hindern, die Batterien zu bergen.",
+  "summary": "Der Besitzer stellt fest, dass die Struktur des Helios trotz des Unfalls weitgehend intakt ist, obwohl die Torsionsbox zerstört wurde. Er äußert Besorgnis über die Batterien, die in Stahlbehältern liegen, und kritisiert die Behörden, die seine Bergungsversuche blockieren, obwohl die Umweltgefahr durch die IP68-zertifizierten Batterien als gering eingeschätzt wird.",
+  "facts": [
+    {
+      "text": "Die meisten strukturellen Elemente des Helios sind weitgehend intakt geblieben.",
+      "quote": "All the structural uh, elements are mostly intact."
+    },
+    {
+      "text": "Einer der Batterietypen, der W-Cycle, besitzt eine IP68-Zertifizierung.",
+      "quote": "one of the battery types W cycle is uh IP68 rated."
+    },
+    {
+      "text": "Die Festigkeit des Bootes resultiert aus der Verwendung von Sperrholz und modernen Epoxidharzsystemen sowie Glasfasern.",
+      "quote": "We can see when you build something and have a pretty tight structural elements, it's not going to fold."
+    },
+    {
+      "text": "Das Steuerrad aus Sperrholz wurde bereits auf Reisen durch Portugal und das Mittelmeer genutzt.",
+      "quote": "The legendary plywood steering wheel that got us all the way Portugal, Mediterranean."
+    },
+    {
+      "text": "Der Vorfall ereignete sich in Dénia, Spanien, wo die Einheimischen dem Besitzer helfen wollen.",
+      "quote": "I just love them here in Dena in Spain."
+    }
+  ],
+  "questions": [
+    "Wie stabil ist die Struktur des Helios trotz der Kenterung?",
+    "Warum darf der Besitzer die Batterien nicht bergen?",
+    "Welche Materialien wurden verwendet, um das Boot so widerstandsfähig zu machen?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

@@ -1,0 +1,6 @@
+/target
+/dist
+*.wav
+qa/ytdlp/
+qa/loop/*
+!qa/loop/README.md

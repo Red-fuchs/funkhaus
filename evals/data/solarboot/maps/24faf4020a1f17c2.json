@@ -1,0 +1,36 @@
+{
+  "v": 2,
+  "chunk": "s3#2",
+  "hash": "24faf4020a1f17c2",
+  "context": "In diesem Videoabschnitt des Kanals TRUE NORTH vom 12. Oktober 2026 schildert der Erbauer seines Solarboots die unmittelbaren Folgen des Kenterns. Er analysiert die technischen Ursachen des Unfalls, bewertet die Schäden an der Ausrüstung und beschreibt die Schwierigkeiten bei der Koordination der Bergungsmaßnahmen mit den Rettungskräften.",
+  "summary": "Der Erbauer erklärt, dass eine nicht befestigte Treppe und lose Batterien den Schwerpunkt veränderten und zum Kentern führten. Während der Rumpf intakt scheint, sind Elektronik, Kleidung und Kamera verloren. Er kritisiert die passive Herangehensweise der Rettungskräfte, die erst am nächsten Tag mit Luftpontons bergen wollen, statt sofortige Maßnahmen zu ergreifen.",
+  "facts": [
+    {
+      "text": "Die nicht festgeschraubte Treppe war eine der Ursachen für die Instabilität des Bootes.",
+      "quote": "I didn't bolt the uh uh staircase back and that means when the boat uh turns a lot"
+    },
+    {
+      "text": "Lose Batterien unter der Treppe verschlechterten den Schwerpunkt und führten zum Umkippen.",
+      "quote": "The center of gravity became poor and uh then it could flip over completely."
+    },
+    {
+      "text": "Durch das Kentern gingen die Kamera, die Drohne und die Kleidung verloren.",
+      "quote": "We lost the camera. We lost the drone. We have to get a better one"
+    },
+    {
+      "text": "Der Rumpf des Bootes weist am Boden keine sichtbaren Schäden auf.",
+      "quote": "There's no damage on the bottom of the hole."
+    },
+    {
+      "text": "Die Rettungskräfte planen, das Boot erst am nächsten Tag mit Luftpontons zu bergen.",
+      "quote": "tomorrow we can put some air pontoons like these air balloons inside"
+    }
+  ],
+  "questions": [
+    "Was war die technische Ursache für das Kentern des Solarboots?",
+    "Welche Ausrüstungsgegenstände sind durch den Unfall verloren gegangen?",
+    "Warum konnte der Besitzer das Boot nicht sofort selbst bergen?"
+  ],
+  "dropped": 0,
+  "model": "models/gemma-4-26B-A4B-it-JANG_4M"
+}

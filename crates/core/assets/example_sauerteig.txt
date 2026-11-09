@@ -1,0 +1,25 @@
+O|0|Okay, Lena, du wolltest wissen, wie Sauerteig funktioniert. Ich dachte erst, das ist Hexerei.
+F|0.05|Ist es fast. Mehl und Wasser, mehr braucht es nicht. Der Rest passiert von allein.
+O|0.1|Moment mal. Von allein? Woher kommt dann das Leben im Teig?
+F|0.05|Vom Mehl selbst. Auf Getreide sitzen wilde Hefen und Milchsäurebakterien.
+B|0.4|Mhm.
+O|0.1|Also überall. Und die wachen einfach auf, wenn man Wasser dranmacht?
+F|0.1|Genau so. Man hält die Mischung warm, und dann vermehren sich die Mikroben.
+O|0.05|Und was macht die Milchsäure dabei?
+F|-0.1|Die sorgt für den Geschmack. Leicht säuerlich, manchmal fast joghurtartig. [laughter]
+O|0.1|Gut, das Geschmack-Argument habe ich verstanden. Aber das Brot geht ja trotzdem hoch, oder?
+F|0.05|Ja, weil die Hefen Gase bilden. Die bleiben im Teig hängen, und das Klebergerüst hält sie fest.
+B|0.6|Genau.
+O|0.1|Und warum ist ein Starter so empfindlich? Meine Oma hat ihren behandelt wie ein Haustier.
+F|0.05|Weil er ein kleines Ökosystem ist. Zu warm, zu kalt, zu selten gefüttert, und die falschen Keime gewinnen.
+O|0.1|Also füttern. Wie oft denn?
+F|0.05|Bei Zimmertemperatur einmal am Tag. Frisches Mehl und Wasser dazu, den alten Teil abnehmen.
+O|0.15|Und nach einer Woche ist er fertig?
+F|0.1|Nach etwa einer Woche riecht er angenehm und geht zuverlässig auf. Vorher braucht es Geduld.
+O|-0.15|Okay, und wie lange darf der Teig dann gehen? Ich hab gehört, da gibt es Regeln.
+F|0.05|Es gibt keine feste Uhrzeit, sondern ein Gefühl. Der Teig muss sich deutlich vergrößert haben und leicht zurückfedern.
+B|0.5|Oh.
+O|0.1|Also kein Wecker, sondern Fingerspitzengefühl.
+F|0.05|Genau. Und das ist der Punkt: Sauerteig ist langsam, aber er braucht nur Mehl, Wasser und Zeit.
+O|0.1|Kurz gesagt: Füttern, warm halten, geduldig sein. Dann backt das Brot von allein.
+F|0.05|Das war der Projekt-Funk. Jetzt geh und füttere deinen Starter, Lena!
